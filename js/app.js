@@ -1502,17 +1502,68 @@ class GrammarQuizApp {
   saveScore(scoreData) {
     this.allScores.push(scoreData);
     this.saveScoresToStorage();
+    this.sendToGoogleSheets(scoreData);
   }
 
   saveScoresToStorage() {
-    localStorage.setItem('grammarQuizScores', JSON.stringify(this.allScores));
+    localStorage.setItem('grammarQuizScores_level2', JSON.stringify(this.allScores));
   }
 
   loadScoresFromStorage() {
-    const data = localStorage.getItem('grammarQuizScores');
-    return data ? JSON.parse(data) : [];
+  // Try new level-specific key first
+  let data = localStorage.getItem('grammarQuizScores_level2');
+  
+  // Migration: if not found, check old shared key
+  if (!data) {
+    const oldData = localStorage.getItem('grammarQuizScores');
+    if (oldData) {
+      data = oldData;
+      localStorage.setItem('grammarQuizScores_level2', oldData);
+    }
   }
-
+  
+  if (!data) return [];
+  
+  const parsed = JSON.parse(data);
+  
+  // Safety filter: only keep scores whose topic belongs to THIS level's quiz data
+  const validTopicIds = new Set(
+    (window.quizData && window.quizData.topics) 
+      ? window.quizData.topics.map(t => t.id) 
+      : []
+  );
+  
+  if (validTopicIds.size === 0) return parsed;
+  
+  return parsed.filter(score => validTopicIds.has(score.topic));
+}
+sendToGoogleSheets(scoreData) {
+  // URL deployment Google Apps Script Level 2 Anda
+  const googleSheetUrl = "https://script.google.com/macros/s/AKfycbzE5A5K9UECr7SWz4xHAtsp4PVKSgN9jNJ1-6aIncwGa3gGKeduwXDVipjh3pJo8RGM/exec";
+  
+  // Jika belum di-setup, skip
+  if (googleSheetUrl.includes("PASTE_YOUR_DEPLOYMENT_URL_HERE")) {
+    console.warn('⚠️ Google Sheets URL not configured for Level 2 yet');
+    return;
+  }
+  
+  const payload = {
+    ...scoreData,
+    level: "Level 2"  // ← IMPORTANT: Level 2, bukan Level 1
+  };
+  
+  fetch(googleSheetUrl, {
+    method: 'POST',
+    body: JSON.stringify(payload)
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log('✅ Data sent to Google Sheets Level 2:', data);
+  })
+  .catch(error => {
+    console.warn('⚠️ Google Sheets sync failed (data still saved locally):', error);
+  });
+}
   getUserTopicScore(studentName, topicId) {
     const scores = this.allScores.filter(s => s.studentName === studentName && s.topic === topicId);
     if (scores.length === 0) return null;
