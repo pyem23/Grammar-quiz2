@@ -1,0 +1,2635 @@
+{
+  "topics": [
+    {
+      "id": "topic-1",
+      "number": 1,
+      "title": "Tense Mastery (Perfect & Perfect Continuous)",
+      "description": "Menguasai present/past/future perfect dan perfect continuous.",
+      "questions": [
+        {
+          "id": "t1-q1",
+          "question": "They ___ in Bandung since 2018.",
+          "options": [
+            "are living",
+            "had lived",
+            "have lived",
+            "live",
+            "lived"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Penanda \"since 2018\" (dari titik waktu lampau hingga sekarang) memerlukan present perfect: have/has+V3."
+        },
+        {
+          "id": "t1-q2",
+          "question": "She was exhausted; she ___ all morning.",
+          "options": [
+            "had been working",
+            "has been working",
+            "worked",
+            "was working",
+            "is working"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Konteks lampau (\"was exhausted\") dengan penekanan durasi sebelum titik lampau lain → past perfect continuous: had been+V-ing."
+        },
+        {
+          "id": "t1-q3",
+          "question": "By next June we ___ here for ten years.",
+          "options": [
+            "will have lived",
+            "will live",
+            "are living",
+            "will have been living",
+            "have lived"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Penanda \"by next June\" + penekanan durasi yang masih berlangsung sampai titik masa depan → future perfect continuous: will have been+V-ing."
+        },
+        {
+          "id": "t1-q4",
+          "question": "I ___ this film three times so far.",
+          "options": [
+            "have been watching",
+            "watched",
+            "had watched",
+            "am watching",
+            "have watched"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Penanda \"three times so far\" menekankan jumlah/hasil, bukan durasi → present perfect: have+V3."
+        },
+        {
+          "id": "t1-q5",
+          "question": "Pilih kalimat yang benar terkait pemakaian stative verb dengan perfect continuous:",
+          "options": [
+            "She is knowing him since 9.",
+            "She have been writing since 9.",
+            "She has been writing since 9.",
+            "She has known him since 9 continuously.",
+            "She has been knowing him since 9."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Stative verb seperti \"know\" tidak boleh dipakai dalam bentuk continuous; \"writing\" adalah action verb sehingga sah dipakai dengan perfect continuous."
+        },
+        {
+          "id": "t1-q6",
+          "question": "When we arrived, he ___ the report already.",
+          "options": [
+            "finished",
+            "finishes",
+            "was finishing",
+            "had finished",
+            "has finished"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Aksi selesai sebelum aksi lampau lain (\"when we arrived\") → past perfect: had+V3."
+        },
+        {
+          "id": "t1-q7",
+          "question": "Rumus present perfect continuous adalah ___.",
+          "options": [
+            "have/has + V-ing",
+            "was/were + V-ing",
+            "had been + V-ing",
+            "have/has + V3",
+            "have/has been + V-ing"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Present perfect continuous dibentuk dengan have/has + been + V-ing, menekankan durasi yang masih terasa efeknya."
+        },
+        {
+          "id": "t1-q8",
+          "question": "The ground was wet because it ___.",
+          "options": [
+            "has rained",
+            "has been raining",
+            "was raining",
+            "rained",
+            "had been raining"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Sebab yang terjadi sebelum kondisi lampau lain (\"was wet\") → past perfect continuous: had been+V-ing, menekankan proses yang menyebabkan efek tersebut."
+        },
+        {
+          "id": "t1-q9",
+          "question": "Untuk mengubah kalimat dari present ke past perfect (pindah waktu), yang diganti adalah ___.",
+          "options": [
+            "subjeknya",
+            "urutan katanya",
+            "objeknya",
+            "bentuk V3-nya",
+            "kata bantunya (has → had)"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Rumus aspek (V3, V-ing) tidak berubah; yang berpindah hanya auxiliary: has → had → will have."
+        },
+        {
+          "id": "t1-q10",
+          "question": "Pilih bentuk yang tepat: \"I ___ three books this month.\" (menekankan jumlah, bukan proses)",
+          "options": [
+            "had read",
+            "have read",
+            "have been reading",
+            "am reading",
+            "read"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Penekanan pada hasil/jumlah (\"three books\") → present perfect (fokus hasil), bukan perfect continuous (fokus proses)."
+        },
+        {
+          "id": "t1-q11",
+          "question": "She ___ (live) in Jakarta for five years now.",
+          "options": [
+            "have lived",
+            "has lived",
+            "had lived",
+            "was living",
+            "lives"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Durasi dari masa lalu sampai sekarang, fokus hasil → present perfect: has+V3."
+        },
+        {
+          "id": "t1-q12",
+          "question": "I ___ (wait) for two hours when the bus finally came.",
+          "options": [
+            "have been waiting",
+            "was waiting",
+            "had been waiting",
+            "have waited",
+            "waited"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Durasi yang berlangsung sebelum kejadian lampau lain (\"the bus came\") → past perfect continuous."
+        },
+        {
+          "id": "t1-q13",
+          "question": "By the time she graduates, she ___ (study) English for eight years.",
+          "options": [
+            "will study",
+            "has studied",
+            "will have studied",
+            "will have been studying",
+            "is studying"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Durasi yang masih berlangsung sampai titik masa depan (\"by the time...graduates\") → future perfect continuous."
+        },
+        {
+          "id": "t1-q14",
+          "question": "He ___ (just/finish) his homework when I called.",
+          "options": [
+            "has just finished",
+            "just finished",
+            "had just finished",
+            "was just finishing",
+            "will just finish"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Aksi baru selesai sebelum aksi lampau lain → past perfect, dengan \"just\" menegaskan kedekatan waktu."
+        },
+        {
+          "id": "t1-q15",
+          "question": "We ___ (know) each other since childhood.",
+          "options": [
+            "have been knowing",
+            "had known",
+            "have known",
+            "know",
+            "knew"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Know\" adalah stative verb, tidak dipakai continuous; durasi dari masa lalu ke sekarang → present perfect biasa."
+        },
+        {
+          "id": "t1-q16",
+          "question": "I have been knowing him since 2015. (perbaiki kesalahan)",
+          "options": [
+            "have been knowing",
+            "have known",
+            "had known",
+            "has known",
+            "knew"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Know\" adalah stative verb yang tidak dipakai dalam bentuk continuous; gunakan present perfect biasa \"have known\"."
+        },
+        {
+          "id": "t1-q17",
+          "question": "She has been finished the report before we arrived. (perbaiki kesalahan)",
+          "options": [
+            "has been finished",
+            "had finished",
+            "has finished",
+            "was finished",
+            "had been finished"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Konteks lampau (\"before we arrived\") memerlukan past perfect \"had finished\", bukan present perfect continuous."
+        },
+        {
+          "id": "t1-q18",
+          "question": "By next year, they will lived here for a decade. (perbaiki kesalahan)",
+          "options": [
+            "will lived",
+            "will have lived",
+            "have lived",
+            "will living",
+            "had lived"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aksi yang selesai/berlangsung sampai titik masa depan memerlukan future perfect \"will have lived\"."
+        },
+        {
+          "id": "t1-q19",
+          "question": "He have written three novels so far. (perbaiki kesalahan)",
+          "options": [
+            "have written",
+            "has written",
+            "had written",
+            "has wrote",
+            "have wrote"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subjek tunggal \"He\" memerlukan auxiliary \"has\", bukan \"have\"."
+        },
+        {
+          "id": "t1-q20",
+          "question": "The ground was wet because it has been raining all night. (perbaiki kesalahan)",
+          "options": [
+            "has been raining",
+            "had been raining",
+            "had rained",
+            "has rained",
+            "was raining"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Konteks kalimat lampau (\"was wet\") memerlukan past perfect continuous \"had been raining\", bukan present perfect continuous."
+        }
+      ]
+    },
+    {
+      "id": "topic-2",
+      "number": 2,
+      "title": "Subject-Verb Agreement",
+      "description": "Kesesuaian subjek dan kata kerja dalam berbagai konteks.",
+      "questions": [
+        {
+          "id": "t2-q1",
+          "question": "The list of names ___ on the wall.",
+          "options": [
+            "were",
+            "is",
+            "being",
+            "are",
+            "have been"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Of names\" adalah frasa penyela; subjek sebenarnya \"the list\" (tunggal) → verb \"is\"."
+        },
+        {
+          "id": "t2-q2",
+          "question": "Neither the boys nor Ani ___ there.",
+          "options": [
+            "are",
+            "were",
+            "have been",
+            "be",
+            "was"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Pola \"neither...nor\" mengikuti subjek terdekat (\"Ani\", tunggal) → verb \"was\"."
+        },
+        {
+          "id": "t2-q3",
+          "question": "Everyone ___ a ticket.",
+          "options": [
+            "have had",
+            "have",
+            "having",
+            "are having",
+            "has"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Everyone\" adalah indefinite pronoun yang selalu dianggap tunggal → verb \"has\"."
+        },
+        {
+          "id": "t2-q4",
+          "question": "The news ___ good today.",
+          "options": [
+            "being",
+            "is",
+            "have been",
+            "were",
+            "are"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"News\" berakhiran -s tapi bermakna tunggal → verb \"is\"."
+        },
+        {
+          "id": "t2-q5",
+          "question": "Ten years ___ a long time.",
+          "options": [
+            "being",
+            "are",
+            "have been",
+            "were",
+            "is"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Ungkapan waktu dihitung sebagai satu kesatuan (unit) → verb tunggal \"is\"."
+        },
+        {
+          "id": "t2-q6",
+          "question": "There ___ two chairs here.",
+          "options": [
+            "are",
+            "was",
+            "is",
+            "being",
+            "has been"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pada pola \"there is/are\", verb menyesuaikan kata benda sesudahnya (\"two chairs\", jamak) → \"are\"."
+        },
+        {
+          "id": "t2-q7",
+          "question": "A number of students ___ late.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has been",
+            "being"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"A number of\" + noun jamak berarti \"beberapa\", dianggap jamak → verb \"are\"."
+        },
+        {
+          "id": "t2-q8",
+          "question": "Mathematics ___ my favourite subject.",
+          "options": [
+            "were",
+            "have been",
+            "is",
+            "being",
+            "are"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Mathematics\" berakhiran -s tapi bermakna tunggal (nama mata pelajaran) → verb \"is\"."
+        },
+        {
+          "id": "t2-q9",
+          "question": "The box of tools ___ heavy.",
+          "options": [
+            "is",
+            "being",
+            "were",
+            "have been",
+            "are"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Of tools\" adalah frasa penyela; subjek sebenarnya \"the box\" (tunggal) → verb \"is\"."
+        },
+        {
+          "id": "t2-q10",
+          "question": "Each student ___ one copy.",
+          "options": [
+            "need",
+            "are needing",
+            "needs",
+            "have needed",
+            "needing"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Each\" selalu dianggap tunggal → verb + s/es: \"needs\"."
+        },
+        {
+          "id": "t2-q11",
+          "question": "The list of items are long. (perbaiki kesalahan)",
+          "options": [
+            "are",
+            "is",
+            "was",
+            "were",
+            "has been"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subjek sebenarnya \"the list\" (tunggal), bukan \"items\" → kata kerja \"is\"."
+        },
+        {
+          "id": "t2-q12",
+          "question": "Everyone have a ticket for the show. (perbaiki kesalahan)",
+          "options": [
+            "have",
+            "has",
+            "had",
+            "having",
+            "haves"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Everyone\" adalah indefinite pronoun tunggal → kata kerja \"has\"."
+        },
+        {
+          "id": "t2-q13",
+          "question": "The news are shocking to everyone. (perbaiki kesalahan)",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "has been",
+            "was"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"News\" secara gramatikal tunggal meski berakhiran -s → kata kerja \"is\"."
+        },
+        {
+          "id": "t2-q14",
+          "question": "Neither the manager nor the employees was informed. (perbaiki kesalahan)",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "are",
+            "has been"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pada pola neither...nor, kata kerja mengikuti subjek terdekat (\"employees\", jamak) → \"were\"."
+        },
+        {
+          "id": "t2-q15",
+          "question": "There is three books on the table. (perbaiki kesalahan)",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "were",
+            "has been"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subjek sebenarnya \"three books\" (jamak) → \"there are\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-3",
+      "number": 3,
+      "title": "Modal Verbs",
+      "description": "Modal untuk deduksi, kemungkinan, dan kewajiban di masa lalu.",
+      "questions": [
+        {
+          "id": "t3-q1",
+          "question": "You ___ touch that wire — it's dangerous.",
+          "options": [
+            "shouldn't have",
+            "mustn't",
+            "needn't",
+            "may not",
+            "don't have to"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Mustn't\" menyatakan larangan keras (prohibition), sesuai konteks bahaya."
+        },
+        {
+          "id": "t3-q2",
+          "question": "It ___ rain tonight — langitnya gelap.",
+          "options": [
+            "should",
+            "might",
+            "can",
+            "have to",
+            "must"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Might\" menyatakan kemungkinan 50:50 berdasarkan tanda-tanda (langit gelap), bukan kepastian."
+        },
+        {
+          "id": "t3-q3",
+          "question": "She ___ swim when she was five.",
+          "options": [
+            "should",
+            "can",
+            "may",
+            "could",
+            "must"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Could\" adalah bentuk lampau dari \"can\" untuk menyatakan kemampuan di masa lalu."
+        },
+        {
+          "id": "t3-q4",
+          "question": "Pilih bentuk yang benar:",
+          "options": [
+            "He cans goes.",
+            "He cans go.",
+            "He can goes.",
+            "He can go.",
+            "He can to go."
+          ],
+          "correctAnswer": 3,
+          "explanation": "Golden rule modal: tidak ada -s/-es dan tidak ada \"to\" setelah modal — \"can go\" bentuk V1 murni."
+        },
+        {
+          "id": "t3-q5",
+          "question": "I ___ submit it today — atasan yang meminta.",
+          "options": [
+            "could",
+            "have to",
+            "may",
+            "should",
+            "might"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Have to\" menyatakan keharusan dari pihak luar/aturan (atasan), berbeda dari \"must\" yang dari diri sendiri."
+        },
+        {
+          "id": "t3-q6",
+          "question": "You look pale. You ___ rest.",
+          "options": [
+            "should",
+            "may not",
+            "could not",
+            "must not",
+            "can't"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Should\" menyatakan saran (advice) yang sesuai konteks kepedulian terhadap kondisi seseorang."
+        },
+        {
+          "id": "t3-q7",
+          "question": "Manakah pernyataan yang benar tentang \"don't have to\"?",
+          "options": [
+            "Berarti tidak wajib, boleh dilakukan boleh tidak.",
+            "Sama persis maknanya dengan mustn't.",
+            "Menyatakan kemampuan di masa lalu.",
+            "Menyatakan penyesalan atas tindakan lampau.",
+            "Berarti dilarang keras melakukan sesuatu."
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Don't have to\" = \"don't need to\" (tidak wajib), berbeda jauh maknanya dari \"mustn't\" (larangan keras)."
+        },
+        {
+          "id": "t3-q8",
+          "question": "Bentuk lampau dari must (keharusan) adalah ___.",
+          "options": [
+            "had to",
+            "musted",
+            "musting",
+            "must have",
+            "have to"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Must\" tidak memiliki bentuk lampau sendiri; digunakan \"had to\" untuk menyatakan keharusan di masa lalu."
+        },
+        {
+          "id": "t3-q9",
+          "question": "___ you help me, please?",
+          "options": [
+            "Will can",
+            "May to",
+            "Must to",
+            "Shoulding",
+            "Would"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Would you...?\" adalah bentuk permintaan yang sopan/elegan (polite request)."
+        },
+        {
+          "id": "t3-q10",
+          "question": "Penyesalan atas tindakan lampau: You ___ told me.",
+          "options": [
+            "could",
+            "must",
+            "should have",
+            "might",
+            "should"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Should have + V3\" menyatakan penyesalan atas sesuatu yang seharusnya dilakukan di masa lalu tapi tidak dilakukan."
+        },
+        {
+          "id": "t3-q11",
+          "question": "The street is wet. It ___ (must) rain last night.",
+          "options": [
+            "must have",
+            "can have",
+            "should have",
+            "might have",
+            "would have"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Bukti kuat mengarah pada kesimpulan pasti tentang masa lalu → \"must have\" (deduksi logis kuat)."
+        },
+        {
+          "id": "t3-q12",
+          "question": "You ___ (could) died in that accident! Be more careful next time.",
+          "options": [
+            "should have",
+            "could have",
+            "must have",
+            "may have",
+            "will have"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kemungkinan buruk yang untungnya tidak terjadi di masa lalu → \"could have + V3\"."
+        },
+        {
+          "id": "t3-q13",
+          "question": "She ___ (might) missed the bus; that's why she's late.",
+          "options": [
+            "must have",
+            "should have",
+            "might have",
+            "can have",
+            "would have"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dugaan/kemungkinan (bukan kepastian) tentang masa lalu → \"might have + V3\"."
+        },
+        {
+          "id": "t3-q14",
+          "question": "Students ___ (must not) use phones during the exam.",
+          "options": [
+            "don't have to",
+            "mustn't",
+            "shouldn't",
+            "can't",
+            "needn't"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Larangan tegas (prohibition) → \"mustn't\", berbeda dari \"don't have to\" yang berarti tidak wajib."
+        },
+        {
+          "id": "t3-q15",
+          "question": "Tomorrow is Sunday. You ___ (not need to) wake up early.",
+          "options": [
+            "mustn't",
+            "shouldn't",
+            "don't have to",
+            "can't",
+            "needn't have"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Tidak ada kewajiban (absence of obligation), bukan larangan → \"don't have to\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-4",
+      "number": 4,
+      "title": "Degrees of Comparison",
+      "description": "Positive, comparative, dan superlative degree.",
+      "questions": [
+        {
+          "id": "t4-q1",
+          "question": "This exam is ___ than the last one.",
+          "options": [
+            "easier",
+            "easiest",
+            "the easier",
+            "more easier",
+            "more easy"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Adjective 2 suku kata berakhiran -y (\"easy\") diubah menjadi -ier untuk comparative: \"easier\"."
+        },
+        {
+          "id": "t4-q2",
+          "question": "He is the ___ student in class.",
+          "options": [
+            "most more careful",
+            "carefullest",
+            "more careful",
+            "most careful",
+            "carefuller"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Adjective 2+ suku kata (\"careful\") memakai \"the most\" untuk superlative, bukan akhiran -est."
+        },
+        {
+          "id": "t4-q3",
+          "question": "Ani is ___ Budi — tingginya sama.",
+          "options": [
+            "tall as",
+            "so tall than",
+            "as tall as",
+            "as taller as",
+            "more tall as"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pola kesetaraan (equal comparison) menggunakan \"as + adjective + as\"."
+        },
+        {
+          "id": "t4-q4",
+          "question": "Pilih superlative yang benar dari 'good':",
+          "options": [
+            "the bestest",
+            "the best",
+            "the most best",
+            "the goodest",
+            "more best"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Good\" adalah adjective irregular: good → better → the best."
+        },
+        {
+          "id": "t4-q5",
+          "question": "This road is ___ than that one.",
+          "options": [
+            "safest",
+            "more safer",
+            "safer",
+            "more safe",
+            "the safer"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Adjective 1 suku kata (\"safe\") ditambah -er untuk comparative: \"safer\"."
+        },
+        {
+          "id": "t4-q6",
+          "question": "___ you practice, ___ you get.",
+          "options": [
+            "Harder / better",
+            "Hard / good",
+            "The more hard / the more good",
+            "More hard / more good",
+            "The harder / the better"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Pola \"the + comparative, the + comparative\" menyatakan dua hal yang berubah sejalan (correlative comparison)."
+        },
+        {
+          "id": "t4-q7",
+          "question": "Manakah pernyataan yang benar?",
+          "options": [
+            "Superlative tidak pernah didahului \"the\".",
+            "\"The most best\" adalah superlative yang benar.",
+            "\"More taller\" adalah bentuk comparative yang benar.",
+            "Comparative selalu memakai \"more\" apapun jumlah suku katanya.",
+            "\"More taller\" adalah bentuk yang salah karena double comparative."
+          ],
+          "correctAnswer": 4,
+          "explanation": "Hanya boleh satu penanda comparative: \"-er\" ATAU \"more\", tidak boleh keduanya sekaligus (\"more taller\" salah)."
+        },
+        {
+          "id": "t4-q8",
+          "question": "Bad → ___ → the worst.",
+          "options": [
+            "more bad",
+            "badder",
+            "the bad",
+            "worse",
+            "baddest"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Bad\" adalah adjective irregular: bad → worse → the worst."
+        },
+        {
+          "id": "t4-q9",
+          "question": "My score is ___ than yours.",
+          "options": [
+            "badder",
+            "worst",
+            "worse",
+            "the worse",
+            "more bad"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Comparative dari \"bad\" adalah \"worse\" (irregular), digunakan dengan \"than\"."
+        },
+        {
+          "id": "t4-q10",
+          "question": "Superlatif hampir selalu didahului ___.",
+          "options": [
+            "very",
+            "a",
+            "an",
+            "the",
+            "more"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Bentuk superlative diawali determiner \"the\" karena menunjuk hal yang paling unik/spesifik dalam kelompoknya."
+        },
+        {
+          "id": "t4-q11",
+          "question": "This mountain track is ___ (less/dangerous) than the previous one.",
+          "options": [
+            "less dangerous",
+            "more dangerous",
+            "the most dangerous",
+            "as dangerous",
+            "less danger"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Less + adjective\" menyatakan tingkat yang lebih rendah dibanding pembanding."
+        },
+        {
+          "id": "t4-q12",
+          "question": "The scenery here is ___ (much/beautiful) than in the city.",
+          "options": [
+            "more beautiful",
+            "much more beautiful",
+            "the most beautiful",
+            "as beautiful",
+            "much beautiful"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Much\" sebagai intensifier comparative adjective panjang: \"much more + adjective\"."
+        },
+        {
+          "id": "t4-q13",
+          "question": "My house is ___ (far) from school than yours.",
+          "options": [
+            "far",
+            "farther",
+            "more far",
+            "the farthest",
+            "further"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Farther\" dipakai untuk jarak fisik; \"further\" untuk makna tambahan/abstrak."
+        },
+        {
+          "id": "t4-q14",
+          "question": "For ___ (far) information, please contact our admin office.",
+          "options": [
+            "farther",
+            "far",
+            "further",
+            "the furthest",
+            "more far"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Further\" dipakai untuk makna abstrak/tambahan (bukan jarak fisik)."
+        },
+        {
+          "id": "t4-q15",
+          "question": "This tent is ___ (a bit/big) than ours.",
+          "options": [
+            "a bit big",
+            "a bit bigger",
+            "the biggest",
+            "much big",
+            "more big"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"A bit\" sebagai modifier comparative adjective pendek: \"a bit + adjective-er\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-5",
+      "number": 5,
+      "title": "Clause Types (Independent & Dependent)",
+      "description": "Jenis-jenis klausa dan struktur kalimat.",
+      "questions": [
+        {
+          "id": "t5-q1",
+          "question": "\"Because she finished it\" adalah klausa ___.",
+          "options": [
+            "kalimat lengkap",
+            "bukan klausa",
+            "dependent",
+            "independent",
+            "frasa"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Diawali subordinator \"because\" sehingga tidak bisa berdiri sendiri sebagai kalimat lengkap — dependent clause."
+        },
+        {
+          "id": "t5-q2",
+          "question": "\"She finished her homework.\" adalah klausa ___.",
+          "options": [
+            "independent",
+            "dependent",
+            "subordinate",
+            "bukan klausa",
+            "frasa"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Memiliki S+V lengkap tanpa kata penghubung penunduk, dan bisa berdiri sendiri — independent clause."
+        },
+        {
+          "id": "t5-q3",
+          "question": "\"He runs, and she cycles.\" termasuk kalimat ___.",
+          "options": [
+            "compound",
+            "fragment",
+            "compound-complex",
+            "simple",
+            "complex"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Dua independent clause dihubungkan coordinating conjunction (\"and\") — compound sentence."
+        },
+        {
+          "id": "t5-q4",
+          "question": "\"He runs because he likes it.\" termasuk ___.",
+          "options": [
+            "compound-complex",
+            "simple",
+            "complex",
+            "compound",
+            "fragment"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Satu independent clause + satu dependent clause (\"because he likes it\") — complex sentence."
+        },
+        {
+          "id": "t5-q5",
+          "question": "Yang termasuk FANBOYS adalah ___.",
+          "options": [
+            "since",
+            "but",
+            "because",
+            "although",
+            "when"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"But\" adalah salah satu dari 7 coordinating conjunction (FANBOYS); lainnya adalah subordinator."
+        },
+        {
+          "id": "t5-q6",
+          "question": "Setiap klausa wajib memiliki ___.",
+          "options": [
+            "kata keterangan",
+            "kata sifat",
+            "subjek dan verba",
+            "objek",
+            "preposisi"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Definisi klausa: gabungan kata yang mengandung minimal satu subjek dan satu verba (finite)."
+        },
+        {
+          "id": "t5-q7",
+          "question": "\"He runs and she cycles when it is cool.\" adalah ___.",
+          "options": [
+            "simple",
+            "compound-complex",
+            "fragment",
+            "compound",
+            "complex"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Terdapat dua independent clause (he runs, she cycles) + satu dependent clause (when it is cool) — compound-complex."
+        },
+        {
+          "id": "t5-q8",
+          "question": "\"Although it rained\" bisa berdiri sendiri sebagai kalimat.",
+          "options": [
+            "Salah",
+            "Tergantung konteks",
+            "Benar",
+            "Kadang benar kadang salah",
+            "Tidak dapat ditentukan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Diawali subordinator \"although\" sehingga bergantung pada klausa lain — tidak bisa berdiri sendiri sebagai kalimat."
+        },
+        {
+          "id": "t5-q9",
+          "question": "Kata \"although\" berfungsi sebagai ___.",
+          "options": [
+            "pronoun",
+            "preposisi",
+            "coordinator",
+            "adverb",
+            "subordinator"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Although\" menghubungkan dependent clause ke induk kalimat, sehingga berfungsi sebagai subordinating conjunction."
+        },
+        {
+          "id": "t5-q10",
+          "question": "Kalimat simple berisi ___.",
+          "options": [
+            "dua klausa dependent",
+            "dua klausa independent",
+            "satu klausa dependent",
+            "satu independent dan satu dependent",
+            "satu klausa independent"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Simple sentence terdiri dari tepat satu independent clause tanpa klausa tambahan."
+        }
+      ]
+    },
+    {
+      "id": "topic-6",
+      "number": 6,
+      "title": "Adjective, Noun & Adverbial Clause",
+      "description": "Klausa relatif dan klausa keterangan.",
+      "questions": [
+        {
+          "id": "t6-q1",
+          "question": "I don't know ___ he wants.",
+          "options": [
+            "who",
+            "what does",
+            "which",
+            "what",
+            "that what"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"What he wants\" berfungsi sebagai objek verb \"know\" (noun clause), memakai susunan S+V, bukan susunan tanya."
+        },
+        {
+          "id": "t6-q2",
+          "question": "The student ___ sits in front is my cousin.",
+          "options": [
+            "whose",
+            "whom",
+            "which",
+            "who",
+            "what"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Who\" menggantikan orang sebagai subjek adjective clause yang menerangkan \"the student\"."
+        },
+        {
+          "id": "t6-q3",
+          "question": "___ it rained, we kept walking.",
+          "options": [
+            "However",
+            "Even",
+            "Despite",
+            "Because of",
+            "Although"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Although\" adalah subordinator adverbial clause yang menyatakan pertentangan (concession)."
+        },
+        {
+          "id": "t6-q4",
+          "question": "The book ___ you lent me was great.",
+          "options": [
+            "that",
+            "what",
+            "who",
+            "whose",
+            "whom"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"That\" menggantikan benda (\"the book\") sebagai objek dalam adjective clause."
+        },
+        {
+          "id": "t6-q5",
+          "question": "Pilih kalimat noun clause yang benar (bukan susunan tanya):",
+          "options": [
+            "I wonder that he telling the truth.",
+            "I wonder he is telling truth whether.",
+            "I wonder whether he is telling the truth.",
+            "I wonder whether is he telling the truth.",
+            "I wonder does he tell the truth."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Noun clause memakai susunan S+V normal (he is telling), bukan susunan pertanyaan (is he telling)."
+        },
+        {
+          "id": "t6-q6",
+          "question": "\"Whose\" dalam adjective clause menyatakan ___.",
+          "options": [
+            "tempat",
+            "waktu",
+            "alasan",
+            "cara",
+            "kepemilikan"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Whose\" adalah relative pronoun posesif yang menunjukkan kepemilikan (contoh: \"the woman whose car broke down\")."
+        },
+        {
+          "id": "t6-q7",
+          "question": "Klausa yang berfungsi sebagai objek kalimat termasuk jenis ___.",
+          "options": [
+            "adjective clause",
+            "coordinate clause",
+            "independent clause",
+            "adverbial clause",
+            "noun clause"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Noun clause berperan sebagai kata benda dalam kalimat, termasuk sebagai objek (contoh: \"I know that you are right\")."
+        },
+        {
+          "id": "t6-q8",
+          "question": "Adjective clause diletakkan ___.",
+          "options": [
+            "di awal kalimat",
+            "tepat setelah kata benda yang diterangkannya",
+            "di manapun bebas",
+            "di akhir kalimat tanpa syarat",
+            "sebelum subjek utama"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Adjective clause harus menempel langsung setelah noun yang diterangkannya agar jelas rujukannya."
+        },
+        {
+          "id": "t6-q9",
+          "question": "Adverbial clause yang diletakkan di depan kalimat diikuti ___.",
+          "options": [
+            "tanpa tanda baca",
+            "titik dua",
+            "koma",
+            "tanda tanya",
+            "tanda seru"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ketika adverbial clause diletakkan di awal kalimat (sebelum independent clause), diberi koma sesudahnya."
+        },
+        {
+          "id": "t6-q10",
+          "question": "\"She told me that she was tired.\" — klausa \"that she was tired\" adalah ___.",
+          "options": [
+            "adjective clause",
+            "adverbial clause",
+            "relative clause",
+            "noun clause",
+            "independent clause"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"That she was tired\" berfungsi sebagai objek dari verb \"told\", sehingga tergolong noun clause."
+        },
+        {
+          "id": "t6-q11",
+          "question": "This is the house ___ (where) I grew up.",
+          "options": [
+            "which",
+            "where",
+            "that",
+            "when",
+            "who"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Klausa adjektiva yang merujuk pada tempat menggunakan relative adverb \"where\"."
+        },
+        {
+          "id": "t6-q12",
+          "question": "I don't know ___ (where) she lives.",
+          "options": [
+            "that",
+            "which",
+            "where",
+            "when",
+            "who"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Klausa nomina (noun clause) sebagai objek \"know\", merujuk tempat → \"where\"."
+        },
+        {
+          "id": "t6-q13",
+          "question": "Call me ___ (when) you arrive.",
+          "options": [
+            "where",
+            "which",
+            "that",
+            "when",
+            "who"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Klausa keterangan waktu (adverbial clause of time) menggunakan \"when\"."
+        },
+        {
+          "id": "t6-q14",
+          "question": "He was so tired ___ he fell asleep immediately.",
+          "options": [
+            "so",
+            "that",
+            "which",
+            "because",
+            "when"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pola \"so + adjective + that\" untuk klausa keterangan hasil/akibat (adverbial clause of result)."
+        },
+        {
+          "id": "t6-q15",
+          "question": "The woman ___ (whose) car broke down called a taxi.",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "that",
+            "where"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Klausa adjektiva yang menunjukkan kepemilikan menggunakan relative pronoun \"whose\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-7",
+      "number": 7,
+      "title": "Gerund & Infinitive",
+      "description": "Penggunaan V-ing dan to-V setelah kata kerja tertentu.",
+      "questions": [
+        {
+          "id": "t7-q1",
+          "question": "I can't stand ___ in line.",
+          "options": [
+            "to waiting",
+            "waiting",
+            "waited",
+            "to wait",
+            "wait"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Can't stand\" diikuti gerund (V-ing): \"can't stand waiting\"."
+        },
+        {
+          "id": "t7-q2",
+          "question": "They decided ___ early.",
+          "options": [
+            "leaves",
+            "to leave",
+            "leave",
+            "left",
+            "leaving"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Decide\" adalah verb yang diikuti infinitive (to + V1): \"decided to leave\"."
+        },
+        {
+          "id": "t7-q3",
+          "question": "She is good at ___ problems.",
+          "options": [
+            "solve",
+            "solving",
+            "to solve",
+            "solved",
+            "solves"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Setelah preposition (\"at\"), selalu digunakan gerund: \"good at solving\"."
+        },
+        {
+          "id": "t7-q4",
+          "question": "He suggested ___ a break.",
+          "options": [
+            "takes",
+            "take",
+            "to take",
+            "taking",
+            "took"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Suggest\" adalah verb yang diikuti gerund (V-ing): \"suggested taking\"."
+        },
+        {
+          "id": "t7-q5",
+          "question": "This app is easy ___.",
+          "options": [
+            "using",
+            "to use",
+            "uses",
+            "used",
+            "use"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Setelah adjective (\"easy\"), digunakan infinitive: \"easy to use\"."
+        },
+        {
+          "id": "t7-q6",
+          "question": "\"Stop smoking\" dan \"stop to smoke\" berarti sama.",
+          "options": [
+            "Benar",
+            "Salah",
+            "Tergantung konteks",
+            "Keduanya berarti berhenti",
+            "Tidak ada perbedaan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Stop smoking\" = berhenti merokok, sedangkan \"stop to smoke\" = berhenti (aktivitas lain) untuk merokok — dua makna berbeda."
+        },
+        {
+          "id": "t7-q7",
+          "question": "Remember ___ the door before you go.",
+          "options": [
+            "locks",
+            "lock",
+            "locking",
+            "locked",
+            "to lock"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Remember to + V1\" berarti ingat untuk melakukan sesuatu (belum dilakukan) — konteks pengingat sebelum pergi."
+        },
+        {
+          "id": "t7-q8",
+          "question": "We avoid ___ at night.",
+          "options": [
+            "to drive",
+            "driven",
+            "drive",
+            "driving",
+            "drives"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Avoid\" adalah verb yang diikuti gerund (V-ing): \"avoid driving\"."
+        },
+        {
+          "id": "t7-q9",
+          "question": "I look forward to ___ from you.",
+          "options": [
+            "to hear",
+            "heard",
+            "hears",
+            "hear",
+            "hearing"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Look forward to\" diikuti gerund karena \"to\" di sini adalah preposition, bukan infinitive marker."
+        },
+        {
+          "id": "t7-q10",
+          "question": "Pilih kalimat yang benar:",
+          "options": [
+            "She promised calling me.",
+            "She promised for call me.",
+            "She promised to calling me.",
+            "She promised to call me.",
+            "She promised call me."
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Promise\" adalah verb yang diikuti infinitive (to + V1): \"promised to call\"."
+        },
+        {
+          "id": "t7-q11",
+          "question": "He is interested in ___ (learn) new languages.",
+          "options": [
+            "learn",
+            "to learn",
+            "learning",
+            "learned",
+            "to learning"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Setelah preposisi (\"in\"), kata kerja berbentuk gerund: \"learning\"."
+        },
+        {
+          "id": "t7-q12",
+          "question": "She finished ___ (write) her essay last night.",
+          "options": [
+            "write",
+            "to write",
+            "writing",
+            "written",
+            "to writing"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Finish\" selalu diikuti gerund: \"finished writing\"."
+        },
+        {
+          "id": "t7-q13",
+          "question": "They plan ___ (visit) Bali next month.",
+          "options": [
+            "visit",
+            "visiting",
+            "to visit",
+            "visited",
+            "to visiting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Plan\" diikuti to-infinitive: \"plan to visit\"."
+        },
+        {
+          "id": "t7-q14",
+          "question": "I regret ___ (tell) you this, but the trip is cancelled.",
+          "options": [
+            "telling",
+            "tell",
+            "to tell",
+            "told",
+            "to telling"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Regret to + V1\" dipakai untuk menyampaikan berita buruk secara formal (berbeda makna dari \"regret + V-ing\")."
+        },
+        {
+          "id": "t7-q15",
+          "question": "Try ___ (restart) the computer if it freezes.",
+          "options": [
+            "restart",
+            "to restart",
+            "restarting",
+            "restarted",
+            "to restarting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Try + V-ing\" berarti mencoba suatu metode/solusi (berbeda dari \"try to + V1\" yang berarti berusaha melakukan sesuatu yang sulit)."
+        }
+      ]
+    },
+    {
+      "id": "topic-8",
+      "number": 8,
+      "title": "Conditionals (Type 0-3)",
+      "description": "Kalimat pengandaian tipe 0 hingga 3.",
+      "questions": [
+        {
+          "id": "t8-q1",
+          "question": "If you heat ice, it ___.",
+          "options": [
+            "melts",
+            "had melted",
+            "would melt",
+            "melted",
+            "will melt"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Conditional type 0 (fakta alam): if + V1, V1 — pola \"If you heat ice, it melts.\""
+        },
+        {
+          "id": "t8-q2",
+          "question": "If it rains, we ___ home.",
+          "options": [
+            "would stay",
+            "will stay",
+            "stayed",
+            "stay",
+            "would have stayed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 1 (kemungkinan realistis masa depan): if + V1, will + V1."
+        },
+        {
+          "id": "t8-q3",
+          "question": "If I ___ you, I would apologize.",
+          "options": [
+            "had been",
+            "were",
+            "was",
+            "am",
+            "will be"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 2 (khayalan masa kini): semua subjek memakai \"were\" secara formal, meski subjeknya \"I\"."
+        },
+        {
+          "id": "t8-q4",
+          "question": "If she ___, she would have passed.",
+          "options": [
+            "studied",
+            "had studied",
+            "studies",
+            "has studied",
+            "would study"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 3 (penyesalan masa lalu): if + had + V3, would have + V3."
+        },
+        {
+          "id": "t8-q5",
+          "question": "Manakah aturan emas conditional yang benar?",
+          "options": [
+            "Main clause tidak boleh memakai modal.",
+            "If-clause tidak memakai will.",
+            "If-clause selalu memakai would.",
+            "Semua tipe conditional memakai V1 di kedua klausa.",
+            "If-clause selalu memakai will."
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aturan emas: if-clause tidak memakai \"will\" — salah: \"If it will rain\"; benar: \"If it rains\"."
+        },
+        {
+          "id": "t8-q6",
+          "question": "Fakta dari kalimat \"If I had money, I would buy a tent.\" adalah:",
+          "options": [
+            "I don't have money, but I bought a tent.",
+            "I will have money, so I will buy a tent.",
+            "I don't have money, so I don't buy a tent.",
+            "I have money, so I buy a tent.",
+            "I had money, so I bought a tent."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Type 2 menyatakan fakta sebaliknya di present: karena if-clause negatif (tidak punya uang), faktanya adalah \"tidak punya uang, tidak beli tenda\"."
+        },
+        {
+          "id": "t8-q7",
+          "question": "Pilih bentuk inversi formal yang benar dari 'If you need help, call me.':",
+          "options": [
+            "Should you need help, call me.",
+            "Needed you help, call me.",
+            "Were you need help, call me.",
+            "Do you need help, call me.",
+            "Had you need help, call me."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Inversi formal type 1 menggunakan \"should\" di depan tanpa \"if\": \"Should you need help...\"."
+        },
+        {
+          "id": "t8-q8",
+          "question": "Pilih kalimat \"unless\" yang benar:",
+          "options": [
+            "Unless it won't rain, we will go.",
+            "Unless it isn't raining, we will go.",
+            "Unless it not rains, we will go.",
+            "Unless it doesn't rain, we will go.",
+            "Unless it rains, we will go."
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"Unless\" sudah bermakna negatif (\"if...not\"), sehingga tidak boleh ditambah \"not\" lagi — \"unless it rains\" = \"if it doesn't rain\"."
+        },
+        {
+          "id": "t8-q9",
+          "question": "If they arrive early, we ___ at eight.",
+          "options": [
+            "started",
+            "will start",
+            "would have started",
+            "would start",
+            "start"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 1: if + V1, will + V1."
+        },
+        {
+          "id": "t8-q10",
+          "question": "If it hadn't rained, we ___ hiked.",
+          "options": [
+            "will have",
+            "will",
+            "had",
+            "would have",
+            "would"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Conditional type 3: if + had V3 (negatif), would have + V3 di main clause."
+        },
+        {
+          "id": "t8-q11",
+          "question": "If water reaches 100°C, it ___ (boil).",
+          "options": [
+            "boil",
+            "boils",
+            "will boil",
+            "boiled",
+            "is boiling"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 0 (kebenaran umum/ilmiah): if + present simple, present simple."
+        },
+        {
+          "id": "t8-q12",
+          "question": "If you don't hurry, you ___ (miss) the bus.",
+          "options": [
+            "miss",
+            "missed",
+            "will miss",
+            "would miss",
+            "would have missed"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Conditional type 1 (kemungkinan nyata di masa depan): if + present simple, will + V1."
+        },
+        {
+          "id": "t8-q13",
+          "question": "If he ___ (speak) French, he could work in Paris.",
+          "options": [
+            "speaks",
+            "spoke",
+            "had spoken",
+            "will speak",
+            "would speak"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 2 (pengandaian tidak nyata masa kini): if + past simple, would/could + V1."
+        },
+        {
+          "id": "t8-q14",
+          "question": "If they had left earlier, they ___ (catch) the train.",
+          "options": [
+            "would catch",
+            "caught",
+            "would have caught",
+            "will catch",
+            "had caught"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Conditional type 3 (pengandaian tidak nyata masa lalu): if + past perfect, would have + V3."
+        },
+        {
+          "id": "t8-q15",
+          "question": "Had she studied, she ___ (pass) the exam.",
+          "options": [
+            "would pass",
+            "passed",
+            "would have passed",
+            "had passed",
+            "will pass"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Inversi conditional type 3 (\"Had she studied\" = \"If she had studied\"): would have + V3 pada klausa hasil."
+        },
+        {
+          "id": "t8-q16",
+          "question": "If it will rain, we will stay home. (perbaiki kesalahan)",
+          "options": [
+            "will rain",
+            "rains",
+            "rained",
+            "would rain",
+            "has rained"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Klausa \"if\" pada conditional type 1 tidak boleh memakai \"will\"; gunakan present simple \"rains\"."
+        },
+        {
+          "id": "t8-q17",
+          "question": "If I was you, I would apologize. (perbaiki kesalahan)",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "had been",
+            "would be"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 2 formal memakai \"were\" untuk semua subjek (subjunctive mood), termasuk \"I\"."
+        },
+        {
+          "id": "t8-q18",
+          "question": "She studied harder, she would have passed the exam. (perbaiki kesalahan pada \"If she studied harder\")",
+          "options": [
+            "studied",
+            "had studied",
+            "has studied",
+            "would study",
+            "study"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Klausa hasil memakai \"would have passed\" (type 3) sehingga klausa if harus \"had studied\", bukan \"studied\"."
+        },
+        {
+          "id": "t8-q19",
+          "question": "Unless it doesn't rain, we will cancel the picnic. (perbaiki kesalahan)",
+          "options": [
+            "doesn't rain",
+            "rains",
+            "won't rain",
+            "rained",
+            "will not rain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Unless\" sudah bermakna negatif (\"if...not\"), sehingga klausanya tidak boleh double negative: \"unless it rains\"."
+        },
+        {
+          "id": "t8-q20",
+          "question": "If you heat ice, it will melt. (perbaiki kesalahan)",
+          "options": [
+            "will melt",
+            "melts",
+            "melted",
+            "would melt",
+            "has melted"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conditional type 0 (fakta ilmiah) memakai present simple pada kedua klausa: \"it melts\", bukan \"will melt\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-9",
+      "number": 9,
+      "title": "Passive Voice",
+      "description": "Kalimat pasif dalam berbagai tense.",
+      "questions": [
+        {
+          "id": "t9-q1",
+          "question": "The report ___ by the team last week.",
+          "options": [
+            "is submitting",
+            "is submitted",
+            "submitted",
+            "was submitted",
+            "has submitted"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Konteks past simple (\"last week\") dalam passive: be(past)+V3 → \"was submitted\"."
+        },
+        {
+          "id": "t9-q2",
+          "question": "The room ___ every morning.",
+          "options": [
+            "was cleaned",
+            "is cleaning",
+            "cleans",
+            "has cleaned",
+            "is cleaned"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Konteks present simple/rutinitas dalam passive: be(present)+V3 → \"is cleaned\"."
+        },
+        {
+          "id": "t9-q3",
+          "question": "It ___ already — tidak ada lagi di meja.",
+          "options": [
+            "has taken",
+            "is being taken",
+            "was taken",
+            "has been taken",
+            "is taken"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Penanda \"already\" → present perfect passive: has/have been+V3."
+        },
+        {
+          "id": "t9-q4",
+          "question": "The bridge ___ next year.",
+          "options": [
+            "will be built",
+            "will been built",
+            "will build",
+            "was built",
+            "is built"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Konteks future dalam passive: will be+V3 → \"will be built\"."
+        },
+        {
+          "id": "t9-q5",
+          "question": "The work must ___ today.",
+          "options": [
+            "be finished",
+            "finished",
+            "finish",
+            "being finished",
+            "have finished"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Modal dalam passive: modal+be+V3 → \"must be finished\"."
+        },
+        {
+          "id": "t9-q6",
+          "question": "\"An accident was happened last night.\" adalah kalimat yang benar.",
+          "options": [
+            "Tergantung konteks",
+            "Benar",
+            "Benar untuk berita",
+            "Salah",
+            "Benar jika formal"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Happen\" adalah verb intransitive (tanpa objek), sehingga tidak bisa dipasifkan — bentuk benar: \"An accident happened last night.\""
+        },
+        {
+          "id": "t9-q7",
+          "question": "Rumus dasar passive voice adalah ___.",
+          "options": [
+            "be + V3",
+            "V1 + by",
+            "be + V-ing",
+            "have + V3",
+            "modal + V1"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Rumus inti passive voice: Subject + be + V3 (+ by Agent); hanya \"be\" yang mengikuti tense."
+        },
+        {
+          "id": "t9-q8",
+          "question": "Frasa \"by + pelaku\" ditulis bila ___.",
+          "options": [
+            "tidak pernah ditulis",
+            "selalu wajib ditulis",
+            "pelakunya penting untuk disebutkan",
+            "kalimatnya formal",
+            "pelakunya tidak diketahui"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"By + agent\" hanya ditulis ketika informasi pelaku dianggap penting bagi pembaca/pendengar."
+        },
+        {
+          "id": "t9-q9",
+          "question": "Dalam kalimat pasif, ___ menjadi subjek.",
+          "options": [
+            "kata kerja",
+            "objek kalimat aktif",
+            "keterangan tempat",
+            "keterangan waktu",
+            "pelaku"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Passive voice memindahkan objek kalimat aktif menjadi subjek kalimat pasif (\"kamera\" digeser ke objek)."
+        },
+        {
+          "id": "t9-q10",
+          "question": "Yang menyesuaikan diri dengan tense pada passive voice adalah ___.",
+          "options": [
+            "bentuk be",
+            "bentuk V3",
+            "objeknya",
+            "subjeknya",
+            "urutan kata"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hanya bentuk \"be\" yang berubah sesuai tense; V3 (past participle) selalu tetap."
+        },
+        {
+          "id": "t9-q11",
+          "question": "The letter ___ (send) yesterday.",
+          "options": [
+            "sent",
+            "was sent",
+            "is sent",
+            "has sent",
+            "had sent"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Konteks lampau (\"yesterday\") + passive voice → past simple passive: \"was sent\"."
+        },
+        {
+          "id": "t9-q12",
+          "question": "The house ___ (build) on a hill.",
+          "options": [
+            "built",
+            "is built",
+            "was built",
+            "has built",
+            "builds"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fakta umum dalam bentuk pasif → present simple passive: \"is built\"."
+        },
+        {
+          "id": "t9-q13",
+          "question": "The bridge ___ (repair) at the moment.",
+          "options": [
+            "repairs",
+            "is repaired",
+            "is being repaired",
+            "was repaired",
+            "has been repaired"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Penanda \"at the moment\" (sedang berlangsung) + pasif → present continuous passive: \"is being repaired\"."
+        },
+        {
+          "id": "t9-q14",
+          "question": "The contract ___ (sign) by both sides yesterday.",
+          "options": [
+            "signed",
+            "was signed",
+            "is signed",
+            "has signed",
+            "had signed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Konteks lampau (\"yesterday\") + pasif → past simple passive: \"was signed\"."
+        },
+        {
+          "id": "t9-q15",
+          "question": "This medicine should ___ (take) regularly.",
+          "options": [
+            "take",
+            "taken",
+            "be taken",
+            "be taking",
+            "have taken"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Modal pasif: \"should + be + V3\" → \"should be taken\"."
+        },
+        {
+          "id": "t9-q16",
+          "question": "An accident was happened near the school. (perbaiki kesalahan)",
+          "options": [
+            "was happened",
+            "happened",
+            "has happened",
+            "was happening",
+            "had happened"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Happen\" adalah verba intransitif, tidak bisa dipasifkan; gunakan bentuk aktif \"happened\"."
+        },
+        {
+          "id": "t9-q17",
+          "question": "The room clean every morning by the staff. (perbaiki kesalahan)",
+          "options": [
+            "clean",
+            "is cleaned",
+            "cleans",
+            "was clean",
+            "is cleaning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kalimat pasif kebiasaan (\"every morning ... by the staff\") memerlukan \"is cleaned\", bukan verba dasar."
+        },
+        {
+          "id": "t9-q18",
+          "question": "I am interested by nature. (perbaiki kesalahan)",
+          "options": [
+            "interested by",
+            "interested in",
+            "interested with",
+            "interested at",
+            "interested on"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ungkapan pasif idiomatis \"interested\" berpasangan dengan preposisi \"in\", bukan \"by\"."
+        },
+        {
+          "id": "t9-q19",
+          "question": "The work must finished by Friday. (perbaiki kesalahan)",
+          "options": [
+            "must finished",
+            "must be finished",
+            "must finish",
+            "must be finishing",
+            "must have finished"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Modal pasif memerlukan \"be\": \"must be finished\", bukan langsung V3 tanpa \"be\"."
+        },
+        {
+          "id": "t9-q20",
+          "question": "The letter has sent already. (perbaiki kesalahan)",
+          "options": [
+            "has sent",
+            "has been sent",
+            "was sent",
+            "is sent",
+            "had sent"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Present perfect pasif memerlukan \"has been + V3\": \"has been sent\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-10",
+      "number": 10,
+      "title": "Reported Speech",
+      "description": "Perubahan kalimat langsung menjadi tidak langsung.",
+      "questions": [
+        {
+          "id": "t10-q1",
+          "question": "She said she ___ tired at that moment.",
+          "options": [
+            "has been",
+            "was",
+            "is",
+            "had been",
+            "were"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reporting verb lampau (\"said\") memundurkan tense: am/is → was."
+        },
+        {
+          "id": "t10-q2",
+          "question": "He asked me where I ___ at that time.",
+          "options": [
+            "lived",
+            "have lived",
+            "do live",
+            "live",
+            "am living"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Reported question dengan backshift: live (V1) → lived (V2)."
+        },
+        {
+          "id": "t10-q3",
+          "question": "\"Close the door.\" → She told me ___ the door.",
+          "options": [
+            "for closing",
+            "closing",
+            "closed",
+            "to close",
+            "close"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Reported command (perintah) menggunakan pola: told + object + to + V1."
+        },
+        {
+          "id": "t10-q4",
+          "question": "will berubah menjadi ___ dalam reported speech.",
+          "options": [
+            "was going",
+            "would",
+            "had",
+            "will have",
+            "would have"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Backshift modal: will → would ketika reporting verb berbentuk lampau."
+        },
+        {
+          "id": "t10-q5",
+          "question": "today berubah menjadi ___ dalam reported speech.",
+          "options": [
+            "the day",
+            "that time",
+            "this day",
+            "that day",
+            "then"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Penanda waktu \"today\" (sekarang) berubah menjadi \"that day\" (lampau) mengikuti kompas waktu reported speech."
+        },
+        {
+          "id": "t10-q6",
+          "question": "Pilih reported question yang benar:",
+          "options": [
+            "He asked do I know it.",
+            "He asked if did I know it.",
+            "He asked I knew it.",
+            "He asked did I know it.",
+            "He asked if I knew it."
+          ],
+          "correctAnswer": 4,
+          "explanation": "Reported yes/no question memakai \"if/whether\" + S+V (bukan susunan tanya dengan do/does/did)."
+        },
+        {
+          "id": "t10-q7",
+          "question": "have + V3 berubah menjadi ___ dalam reported speech.",
+          "options": [
+            "had been + V-ing",
+            "would have + V3",
+            "had + V3",
+            "has + V3",
+            "was + V-ing"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Backshift: present perfect (have/has+V3) → past perfect (had+V3)."
+        },
+        {
+          "id": "t10-q8",
+          "question": "here berubah menjadi ___ dalam reported speech.",
+          "options": [
+            "near here",
+            "that place",
+            "over here",
+            "there",
+            "this place"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Penanda tempat \"here\" (dekat) berubah menjadi \"there\" (jauh) mengikuti kompas tempat reported speech."
+        },
+        {
+          "id": "t10-q9",
+          "question": "Kata ganti 'I' pada ucapan langsung biasanya berubah menjadi ___ dalam reported speech.",
+          "options": [
+            "we",
+            "you",
+            "he/she (sesuai pembicara)",
+            "they",
+            "I tetap I"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Kata ganti orang pertama (\"I\") diubah sesuai siapa yang berbicara ketika dilaporkan orang lain, umumnya menjadi he/she."
+        },
+        {
+          "id": "t10-q10",
+          "question": "must (keharusan) pada reported speech menjadi ___.",
+          "options": [
+            "had to",
+            "musted",
+            "has to",
+            "would must",
+            "must have"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Backshift modal: must → had to ketika reporting verb berbentuk lampau."
+        },
+        {
+          "id": "t10-q11",
+          "question": "He says, \"I like pizza.\" → He says ___ (that) he ___ (like) pizza.",
+          "options": [
+            "that he like",
+            "that he likes",
+            "he likes",
+            "that he liked",
+            "that he is liking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Says\" (present) tidak memicu backshift; kata kerja lapor tetap present: \"that he likes\"."
+        },
+        {
+          "id": "t10-q12",
+          "question": "The teacher said, \"The sun rises in the east.\" → The teacher said that the sun ___ (rise) in the east.",
+          "options": [
+            "rise",
+            "rises",
+            "rose",
+            "would rise",
+            "is rising"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kebenaran umum/fakta ilmiah tidak mengalami backshift meski kata kerja lapor lampau: tetap \"rises\"."
+        },
+        {
+          "id": "t10-q13",
+          "question": "\"Where do you work?\" she asked. → She asked where I ___ (work).",
+          "options": [
+            "work",
+            "works",
+            "worked",
+            "had worked",
+            "was working"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Kata kerja lapor lampau (\"asked\") memicu backshift: present simple → past simple \"worked\"."
+        },
+        {
+          "id": "t10-q14",
+          "question": "\"Don't pick the flowers,\" the ranger warned. → The ranger warned us ___ pick the flowers.",
+          "options": [
+            "don't",
+            "not to",
+            "to not",
+            "not",
+            "didn't"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Perintah negatif langsung diubah menjadi \"not to + V1\" dalam reported speech."
+        },
+        {
+          "id": "t10-q15",
+          "question": "\"I will call you tomorrow,\" he said. → He said he ___ (will/call) me the next day.",
+          "options": [
+            "will call",
+            "would call",
+            "called",
+            "call",
+            "had called"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Backshift modal: \"will\" → \"would\"; penanda waktu \"tomorrow\" → \"the next day\"."
+        },
+        {
+          "id": "t10-q16",
+          "question": "He said that he is tired. (perbaiki kesalahan)",
+          "options": [
+            "is",
+            "was",
+            "has been",
+            "had been",
+            "were"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kata kerja lapor lampau (\"said\") memicu backshift: present simple → past simple \"was\"."
+        },
+        {
+          "id": "t10-q17",
+          "question": "She asked me where do I live. (perbaiki kesalahan)",
+          "options": [
+            "where do I live",
+            "where I lived",
+            "where I live",
+            "where did I live",
+            "where I had lived"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reported question menggunakan urutan kata pernyataan (bukan inversi tanya) dan backshift tense: \"where I lived\"."
+        },
+        {
+          "id": "t10-q18",
+          "question": "He told me don't touch that. (perbaiki kesalahan)",
+          "options": [
+            "don't touch",
+            "not to touch",
+            "not touch",
+            "to not touch",
+            "didn't touch"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Perintah negatif dalam reported speech: \"not to + V1\", bukan \"don't + V1\"."
+        },
+        {
+          "id": "t10-q19",
+          "question": "They said they will finish it tomorrow. (perbaiki kesalahan)",
+          "options": [
+            "will finish it tomorrow",
+            "would finish it the next day",
+            "would finish it tomorrow",
+            "will finish it the next day",
+            "finished it tomorrow"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Backshift modal \"will\"→\"would\" dan penanda waktu \"tomorrow\"→\"the next day\" harus berubah bersamaan."
+        },
+        {
+          "id": "t10-q20",
+          "question": "She said she has lost her key yesterday. (perbaiki kesalahan)",
+          "options": [
+            "has lost",
+            "had lost",
+            "had lose",
+            "has lose",
+            "was lost"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kata kerja lapor lampau memicu backshift: present perfect → past perfect \"had lost\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-11",
+      "number": 11,
+      "title": "Question Tags & Causative Verbs",
+      "description": "Tag question dan kata kerja kausatif (make/have/get/let).",
+      "questions": [
+        {
+          "id": "t11-q1",
+          "question": "You have finished it, ___?",
+          "options": [
+            "haven't you",
+            "aren't you",
+            "don't you",
+            "didn't you",
+            "have you"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Kalimat utama positif (\"have finished\") → tag negatif dengan auxiliary yang sama: \"haven't you\"."
+        },
+        {
+          "id": "t11-q2",
+          "question": "She doesn't drive, ___?",
+          "options": [
+            "isn't she",
+            "is she",
+            "does she",
+            "did she",
+            "doesn't she"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Kalimat utama negatif (\"doesn't drive\") → tag positif: \"does she\"."
+        },
+        {
+          "id": "t11-q3",
+          "question": "Let's go, ___?",
+          "options": [
+            "aren't we",
+            "shall we",
+            "don't we",
+            "will we",
+            "do we"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pola khusus \"let's\" selalu diikuti tag \"shall we\"."
+        },
+        {
+          "id": "t11-q4",
+          "question": "I am late, ___?",
+          "options": [
+            "am I not",
+            "aren't I",
+            "amn't I",
+            "am not I",
+            "isn't I"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"I am\" adalah perkecualian question tag: tag-nya adalah \"aren't I\", bukan \"am not I\"."
+        },
+        {
+          "id": "t11-q5",
+          "question": "He made me ___ for an hour.",
+          "options": [
+            "to waiting",
+            "waiting",
+            "waited",
+            "to wait",
+            "wait"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Pola causative \"make\" tidak memakai \"to\": S + make + object + V1 murni."
+        },
+        {
+          "id": "t11-q6",
+          "question": "I had my car ___.",
+          "options": [
+            "to repair",
+            "repairing",
+            "repaired",
+            "to repairing",
+            "repair"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pola causative pasif \"have + object + V3\" berarti pekerjaan diserahkan pada orang lain, hasilnya yang penting."
+        },
+        {
+          "id": "t11-q7",
+          "question": "She got him ___ her.",
+          "options": [
+            "to help",
+            "help",
+            "to helping",
+            "helped",
+            "helping"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pola causative \"get\" selalu memakai \"to\": S + get + person + to V1."
+        },
+        {
+          "id": "t11-q8",
+          "question": "Close it, ___?",
+          "options": [
+            "shall you",
+            "do you",
+            "won't you",
+            "will you",
+            "don't you"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Kalimat imperative (perintah) menggunakan tag \"will you\"."
+        },
+        {
+          "id": "t11-q9",
+          "question": "\"Let\" dalam causative verbs berarti ___.",
+          "options": [
+            "menyuruh dengan paksa",
+            "mengizinkan",
+            "memaksa",
+            "melarang",
+            "membujuk"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Let\" menyatakan izin/membiarkan (permission), paling lembut dibanding make/have/get."
+        },
+        {
+          "id": "t11-q10",
+          "question": "Causative verbs dipakai ketika pekerjaan ___.",
+          "options": [
+            "dikerjakan bersama-sama",
+            "dibatalkan",
+            "dikerjakan orang lain, bukan diri sendiri",
+            "tidak jadi dikerjakan",
+            "dikerjakan sendiri"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Causative verb (make/have/get/let) menyatakan bahwa suatu tindakan dilakukan oleh/melalui orang lain, bukan oleh subjek sendiri."
+        },
+        {
+          "id": "t11-q11",
+          "question": "Everybody is enjoying the campfire, ___ they?",
+          "options": [
+            "isn't",
+            "aren't",
+            "don't",
+            "doesn't",
+            "won't"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Everybody\" tunggal untuk kata kerja, tetapi tag-nya memakai \"they\" (aturan khusus indefinite pronoun): \"aren't they\"."
+        },
+        {
+          "id": "t11-q12",
+          "question": "Nobody brought the map, ___ they?",
+          "options": [
+            "didn't",
+            "did",
+            "do",
+            "don't",
+            "does"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Nobody\" bermakna negatif, sehingga tag-nya positif: \"did they\"."
+        },
+        {
+          "id": "t11-q13",
+          "question": "There is a problem, ___ there?",
+          "options": [
+            "is",
+            "isn't",
+            "doesn't",
+            "aren't",
+            "wasn't"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pola \"there is/are\" pada question tag mengulangi kata \"there\": \"isn't there\"."
+        },
+        {
+          "id": "t11-q14",
+          "question": "She helped me ___ (carry) the box.",
+          "options": [
+            "carrying",
+            "carried",
+            "carry",
+            "to carrying",
+            "carries"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Help\" boleh diikuti V1 dengan atau tanpa \"to\": \"helped me carry/to carry\"."
+        },
+        {
+          "id": "t11-q15",
+          "question": "We were made ___ (wait) outside.",
+          "options": [
+            "wait",
+            "waiting",
+            "to wait",
+            "waited",
+            "to waiting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Dalam bentuk pasif dari \"make\", partikel \"to\" muncul kembali: \"were made to wait\"."
+        }
+      ]
+    },
+    {
+      "id": "topic-12",
+      "number": 12,
+      "title": "Phrasal Verbs & Participle Phrases",
+      "description": "Frasa verba dan frasa partisipial.",
+      "questions": [
+        {
+          "id": "t12-q1",
+          "question": "___ tired, she went to bed early.",
+          "options": [
+            "To feel",
+            "Having feel",
+            "Felt",
+            "Feel",
+            "Feeling"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Present participle (V-ing) menyatakan makna aktif dan sebab yang terjadi bersamaan — \"Feeling tired\" memendekkan \"Because she felt tired\"."
+        },
+        {
+          "id": "t12-q2",
+          "question": "___ in 1998, the novel still feels new.",
+          "options": [
+            "Write",
+            "To write",
+            "Written",
+            "Writing",
+            "Having write"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Past participle (V3) menyatakan makna pasif — \"Written in 1998\" = \"which was written in 1998\"."
+        },
+        {
+          "id": "t12-q3",
+          "question": "___ the work, they went home.",
+          "options": [
+            "To finish",
+            "Having finished",
+            "Finishing",
+            "Have finished",
+            "Finished"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Perfect participle (having + V3) menyatakan peristiwa yang terjadi lebih dulu sebelum aksi utama."
+        },
+        {
+          "id": "t12-q4",
+          "question": "Pilih phrasal verb yang bermakna 'menyerah':",
+          "options": [
+            "give away",
+            "give up",
+            "give in",
+            "give back",
+            "give out"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Give up\" berarti menyerah, berbeda dari \"give in\" (mengalah) meski mirip maknanya."
+        },
+        {
+          "id": "t12-q5",
+          "question": "Manakah contoh transitive phrasal verb yang TIDAK dapat dipisah?",
+          "options": [
+            "turn the offer down",
+            "put the meeting off",
+            "turn down",
+            "look after",
+            "give the book back"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Look after\" adalah inseparable transitive phrasal verb — objek harus selalu setelah partikel, tidak bisa disisipkan di tengah."
+        },
+        {
+          "id": "t12-q6",
+          "question": "Pilih kalimat yang benar dengan kata ganti pada separable phrasal verb:",
+          "options": [
+            "Turn down it.",
+            "Turn it off down.",
+            "Turn it down.",
+            "Turn off it.",
+            "Turn down them."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pada separable phrasal verb, kata ganti (it/them) wajib diletakkan di tengah, bukan setelah partikel."
+        },
+        {
+          "id": "t12-q7",
+          "question": "Manakah yang termasuk intransitive phrasal verb (tanpa objek)?",
+          "options": [
+            "look after (merawat)",
+            "give up (menyerah sesuatu)",
+            "take off (lepas landas)",
+            "turn down (menolak)",
+            "look for (mencari)"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Take off\" (lepas landas, tentang pesawat) tidak memerlukan objek — intransitive."
+        },
+        {
+          "id": "t12-q8",
+          "question": "___ the news, they cheered.",
+          "options": [
+            "Heard",
+            "To hear",
+            "Hear",
+            "Hearing",
+            "Having hear"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Present participle menyatakan aksi aktif yang terjadi bersamaan — \"Hearing the news\" = \"When they heard the news\"."
+        },
+        {
+          "id": "t12-q9",
+          "question": "___ by the flood, the bridge is closed.",
+          "options": [
+            "To damage",
+            "Damaged",
+            "Damaging",
+            "Having damage",
+            "Damage"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Past participle menyatakan makna pasif — \"Damaged by the flood\" = \"which was damaged by the flood\"."
+        },
+        {
+          "id": "t12-q10",
+          "question": "___ lost the map, we asked for help.",
+          "options": [
+            "Having",
+            "Has",
+            "To have",
+            "Had",
+            "Have"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Perfect participle \"Having lost\" menyatakan peristiwa (kehilangan peta) yang terjadi lebih dulu sebelum bertanya."
+        },
+        {
+          "id": "t12-q11",
+          "question": "___ (walk) home, I met an old friend.",
+          "options": [
+            "Walk",
+            "Walking",
+            "Walked",
+            "To walk",
+            "Having walked"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Present participle menyatakan dua aksi yang terjadi bersamaan (berjalan sambil bertemu teman)."
+        },
+        {
+          "id": "t12-q12",
+          "question": "___ (leave) alone, the child began to cry.",
+          "options": [
+            "Leaving",
+            "Left",
+            "To leave",
+            "Having left",
+            "Leave"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Past participle menyatakan makna pasif: \"Left alone\" = \"who was left alone\"."
+        },
+        {
+          "id": "t12-q13",
+          "question": "___ (read) the letter, he put it away.",
+          "options": [
+            "Reading",
+            "Read",
+            "Having read",
+            "To read",
+            "Having been read"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Perfect participle menyatakan urutan: membaca surat dulu, baru menyimpannya."
+        },
+        {
+          "id": "t12-q14",
+          "question": "I need to look ___ (mencari) my keys.",
+          "options": [
+            "at",
+            "for",
+            "up",
+            "after",
+            "into"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Look for\" berarti mencari sesuatu."
+        },
+        {
+          "id": "t12-q15",
+          "question": "She always looks ___ (mengagumi) her older sister.",
+          "options": [
+            "up to",
+            "after",
+            "for",
+            "up on",
+            "into"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"Look up to\" berarti mengagumi seseorang."
+        }
+      ]
+    }
+  ]
+}
