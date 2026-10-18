@@ -1,276 +1,812 @@
 {
   "topics": [
     {
-      "id": "topic-1",
+      "id": "topic-present",
       "number": 1,
-      "title": "Tense Mastery (Perfect & Perfect Continuous)",
-      "description": "Menguasai present/past/future perfect dan perfect continuous.",
+      "title": "Present Tense",
+      "description": "Simple, continuous, perfect & perfect continuous di masa kini.",
       "questions": [
         {
-          "id": "t1-q1",
-          "question": "They ___ in Bandung since 2018.",
+          "id": "pres-q1",
+          "question": "Water ___ at 100 degrees Celsius at sea level.",
           "options": [
-            "are living",
-            "had lived",
-            "have lived",
-            "live",
-            "lived"
+            "boil",
+            "is boiling",
+            "has boiled",
+            "has been boiling",
+            "boils"
           ],
-          "correctAnswer": 2,
-          "explanation": "Penanda \"since 2018\" (dari titik waktu lampau hingga sekarang) memerlukan present perfect: have/has+V3."
+          "correctAnswer": 4,
+          "explanation": "Fakta ilmiah/kebenaran umum memakai simple present. Subjek tunggal (water) → V1 + s: boils."
         },
         {
-          "id": "t1-q2",
-          "question": "She was exhausted; she ___ all morning.",
+          "id": "pres-q2",
+          "question": "My brother usually ___ to school by bus, but today he ___ by bike.",
           "options": [
-            "had been working",
-            "has been working",
-            "worked",
-            "was working",
-            "is working"
+            "goes / is going",
+            "go / is going",
+            "has gone / is going",
+            "goes / goes",
+            "is going / goes"
           ],
           "correctAnswer": 0,
-          "explanation": "Konteks lampau (\"was exhausted\") dengan penekanan durasi sebelum titik lampau lain → past perfect continuous: had been+V-ing."
+          "explanation": "\"Usually\" menandai kebiasaan → simple present (goes); \"today\" untuk kegiatan sementara yang berbeda dari kebiasaan → present continuous (is going)."
         },
         {
-          "id": "t1-q3",
-          "question": "By next June we ___ here for ten years.",
+          "id": "pres-q3",
+          "question": "___ your father work on Saturdays?",
           "options": [
-            "will have lived",
-            "will live",
-            "are living",
-            "will have been living",
-            "have lived"
+            "Does",
+            "Do",
+            "Has",
+            "Are",
+            "Is"
           ],
-          "correctAnswer": 3,
-          "explanation": "Penanda \"by next June\" + penekanan durasi yang masih berlangsung sampai titik masa depan → future perfect continuous: will have been+V-ing."
+          "correctAnswer": 0,
+          "explanation": "Kalimat tanya simple present dengan subjek tunggal (your father) memakai Does + V1. \"Is\" tidak bisa diikuti V1 (work)."
         },
         {
-          "id": "t1-q4",
-          "question": "I ___ this film three times so far.",
+          "id": "pres-q4",
+          "question": "She never ___ coffee in the morning; she prefers tea.",
           "options": [
-            "have been watching",
-            "watched",
-            "had watched",
-            "am watching",
-            "have watched"
+            "drinks",
+            "has been drinking",
+            "drink",
+            "doesn't drink",
+            "is drinking"
           ],
-          "correctAnswer": 4,
-          "explanation": "Penanda \"three times so far\" menekankan jumlah/hasil, bukan durasi → present perfect: have+V3."
+          "correctAnswer": 0,
+          "explanation": "\"Never\" sudah bermakna negatif, jadi kata kerjanya tetap positif (tidak boleh double negative). Kebiasaan + subjek tunggal → drinks."
         },
         {
-          "id": "t1-q5",
-          "question": "Pilih kalimat yang benar terkait pemakaian stative verb dengan perfect continuous:",
+          "id": "pres-q5",
+          "question": "Look! The children ___ in the rain.",
           "options": [
-            "She is knowing him since 9.",
-            "She have been writing since 9.",
-            "She has been writing since 9.",
-            "She has known him since 9 continuously.",
-            "She has been knowing him since 9."
-          ],
-          "correctAnswer": 2,
-          "explanation": "Stative verb seperti \"know\" tidak boleh dipakai dalam bentuk continuous; \"writing\" adalah action verb sehingga sah dipakai dengan perfect continuous."
-        },
-        {
-          "id": "t1-q6",
-          "question": "When we arrived, he ___ the report already.",
-          "options": [
-            "finished",
-            "finishes",
-            "was finishing",
-            "had finished",
-            "has finished"
-          ],
-          "correctAnswer": 3,
-          "explanation": "Aksi selesai sebelum aksi lampau lain (\"when we arrived\") → past perfect: had+V3."
-        },
-        {
-          "id": "t1-q7",
-          "question": "Rumus present perfect continuous adalah ___.",
-          "options": [
-            "have/has + V-ing",
-            "was/were + V-ing",
-            "had been + V-ing",
-            "have/has + V3",
-            "have/has been + V-ing"
-          ],
-          "correctAnswer": 4,
-          "explanation": "Present perfect continuous dibentuk dengan have/has + been + V-ing, menekankan durasi yang masih terasa efeknya."
-        },
-        {
-          "id": "t1-q8",
-          "question": "The ground was wet because it ___.",
-          "options": [
-            "has rained",
-            "has been raining",
-            "was raining",
-            "rained",
-            "had been raining"
-          ],
-          "correctAnswer": 4,
-          "explanation": "Sebab yang terjadi sebelum kondisi lampau lain (\"was wet\") → past perfect continuous: had been+V-ing, menekankan proses yang menyebabkan efek tersebut."
-        },
-        {
-          "id": "t1-q9",
-          "question": "Untuk mengubah kalimat dari present ke past perfect (pindah waktu), yang diganti adalah ___.",
-          "options": [
-            "subjeknya",
-            "urutan katanya",
-            "objeknya",
-            "bentuk V3-nya",
-            "kata bantunya (has → had)"
-          ],
-          "correctAnswer": 4,
-          "explanation": "Rumus aspek (V3, V-ing) tidak berubah; yang berpindah hanya auxiliary: has → had → will have."
-        },
-        {
-          "id": "t1-q10",
-          "question": "Pilih bentuk yang tepat: \"I ___ three books this month.\" (menekankan jumlah, bukan proses)",
-          "options": [
-            "had read",
-            "have read",
-            "have been reading",
-            "am reading",
-            "read"
+            "play",
+            "are playing",
+            "have played",
+            "plays",
+            "played"
           ],
           "correctAnswer": 1,
-          "explanation": "Penekanan pada hasil/jumlah (\"three books\") → present perfect (fokus hasil), bukan perfect continuous (fokus proses)."
+          "explanation": "\"Look!\" menandai kejadian yang sedang berlangsung saat ini → present continuous; subjek jamak (the children) → are + V-ing."
         },
         {
-          "id": "t1-q11",
-          "question": "She ___ (live) in Jakarta for five years now.",
+          "id": "pres-q6",
+          "question": "Pilih kalimat yang benar.",
           "options": [
-            "have lived",
-            "has lived",
-            "had lived",
-            "was living",
-            "lives"
+            "I does know the answer now.",
+            "I am knowing the answer now.",
+            "I knowing the answer now.",
+            "I know the answer now.",
+            "I am know the answer now."
           ],
-          "correctAnswer": 1,
-          "explanation": "Durasi dari masa lalu sampai sekarang, fokus hasil → present perfect: has+V3."
+          "correctAnswer": 3,
+          "explanation": "\"Know\" adalah stative verb (kata kerja keadaan) yang umumnya tidak dipakai dalam bentuk continuous meski ada \"now\"; gunakan simple present: I know."
         },
         {
-          "id": "t1-q12",
-          "question": "I ___ (wait) for two hours when the bus finally came.",
+          "id": "pres-q7",
+          "question": "Listen! Someone ___ at the door.",
           "options": [
-            "have been waiting",
-            "was waiting",
-            "had been waiting",
-            "have waited",
-            "waited"
+            "are knocking",
+            "knocks",
+            "knock",
+            "is knocking",
+            "has knocked"
           ],
-          "correctAnswer": 2,
-          "explanation": "Durasi yang berlangsung sebelum kejadian lampau lain (\"the bus came\") → past perfect continuous."
+          "correctAnswer": 3,
+          "explanation": "\"Listen!\" menandai aksi yang sedang terjadi → present continuous. \"Someone\" tunggal → is knocking."
         },
         {
-          "id": "t1-q13",
-          "question": "By the time she graduates, she ___ (study) English for eight years.",
+          "id": "pres-q8",
+          "question": "At the moment, Rina and her friends ___ for the final exam.",
           "options": [
-            "will study",
             "has studied",
-            "will have studied",
-            "will have been studying",
+            "are studying",
+            "study",
+            "studies",
             "is studying"
           ],
+          "correctAnswer": 1,
+          "explanation": "\"At the moment\" → present continuous. Subjek gabungan \"Rina and her friends\" bersifat jamak → are studying."
+        },
+        {
+          "id": "pres-q9",
+          "question": "According to the timetable, the train ___ at 7.15 tomorrow morning.",
+          "options": [
+            "has left",
+            "leaves",
+            "leave",
+            "left",
+            "has been leaving"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jadwal resmi (timetable) memakai simple present walaupun kejadiannya di masa depan. Subjek tunggal → leaves."
+        },
+        {
+          "id": "pres-q10",
+          "question": "My parents ___ married for twenty years.",
+          "options": [
+            "has been",
+            "are",
+            "were",
+            "had been",
+            "have been"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"For twenty years\" (dari dulu sampai sekarang) → present perfect. Subjek jamak (my parents) → have been."
+        },
+        {
+          "id": "pres-q11",
+          "question": "She ___ three cups of coffee so far today.",
+          "options": [
+            "has drunk",
+            "drinks",
+            "is drinking",
+            "has drank",
+            "have drunk"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"So far today\" menekankan jumlah/hasil sampai sekarang → present perfect: has + V3. Bentuk V3 dari drink adalah drunk (bukan drank)."
+        },
+        {
+          "id": "pres-q12",
+          "question": "I haven't received his reply ___.",
+          "options": [
+            "just",
+            "ever",
+            "yet",
+            "since",
+            "already"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Yet\" dipakai di kalimat negatif/tanya present perfect dan diletakkan di akhir kalimat; \"already\" umumnya dipakai di kalimat positif."
+        },
+        {
+          "id": "pres-q13",
+          "question": "Mr. Hadi has taught at this school ___ 2015.",
+          "options": [
+            "in",
+            "for",
+            "ago",
+            "since",
+            "during"
+          ],
           "correctAnswer": 3,
-          "explanation": "Durasi yang masih berlangsung sampai titik masa depan (\"by the time...graduates\") → future perfect continuous."
+          "explanation": "\"Since\" + titik waktu (2015); \"for\" + rentang waktu (for ten years). \"Ago\" dan \"in 2015\" milik simple past."
         },
         {
-          "id": "t1-q14",
-          "question": "He ___ (just/finish) his homework when I called.",
+          "id": "pres-q14",
+          "question": "How long ___ in this city?",
           "options": [
-            "has just finished",
-            "just finished",
-            "had just finished",
-            "was just finishing",
-            "will just finish"
+            "are you living",
+            "did you been living",
+            "have you been living",
+            "have you living",
+            "you have been living"
           ],
           "correctAnswer": 2,
-          "explanation": "Aksi baru selesai sebelum aksi lampau lain → past perfect, dengan \"just\" menegaskan kedekatan waktu."
+          "explanation": "\"How long\" + durasi sampai sekarang → present perfect continuous. Dalam kalimat tanya, auxiliary (have) berada di depan subjek: have you been living. (Present perfect \"have you lived\" juga benar, tetapi tidak ada di pilihan.)"
         },
         {
-          "id": "t1-q15",
-          "question": "We ___ (know) each other since childhood.",
+          "id": "pres-q15",
+          "question": "Her eyes are red because she ___.",
           "options": [
-            "have been knowing",
-            "had known",
-            "have known",
-            "know",
-            "knew"
+            "had been crying",
+            "have been crying",
+            "has been crying",
+            "cries",
+            "is cry"
           ],
           "correctAnswer": 2,
-          "explanation": "\"Know\" adalah stative verb, tidak dipakai continuous; durasi dari masa lalu ke sekarang → present perfect biasa."
+          "explanation": "Bukti yang terlihat sekarang (mata merah) dari aktivitas yang baru saja berlangsung → present perfect continuous. Subjek tunggal → has been crying."
         },
         {
-          "id": "t1-q16",
-          "question": "I have been knowing him since 2015. (perbaiki kesalahan)",
+          "id": "pres-q16",
+          "question": "It ___ since this morning, so the streets are flooded.",
           "options": [
-            "have been knowing",
-            "have known",
-            "had known",
-            "has known",
-            "knew"
-          ],
-          "correctAnswer": 1,
-          "explanation": "\"Know\" adalah stative verb yang tidak dipakai dalam bentuk continuous; gunakan present perfect biasa \"have known\"."
-        },
-        {
-          "id": "t1-q17",
-          "question": "She has been finished the report before we arrived. (perbaiki kesalahan)",
-          "options": [
-            "has been finished",
-            "had finished",
-            "has finished",
-            "was finished",
-            "had been finished"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Konteks lampau (\"before we arrived\") memerlukan past perfect \"had finished\", bukan present perfect continuous."
-        },
-        {
-          "id": "t1-q18",
-          "question": "By next year, they will lived here for a decade. (perbaiki kesalahan)",
-          "options": [
-            "will lived",
-            "will have lived",
-            "have lived",
-            "will living",
-            "had lived"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Aksi yang selesai/berlangsung sampai titik masa depan memerlukan future perfect \"will have lived\"."
-        },
-        {
-          "id": "t1-q19",
-          "question": "He have written three novels so far. (perbaiki kesalahan)",
-          "options": [
-            "have written",
-            "has written",
-            "had written",
-            "has wrote",
-            "have wrote"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Subjek tunggal \"He\" memerlukan auxiliary \"has\", bukan \"have\"."
-        },
-        {
-          "id": "t1-q20",
-          "question": "The ground was wet because it has been raining all night. (perbaiki kesalahan)",
-          "options": [
+            "rains",
             "has been raining",
             "had been raining",
-            "had rained",
-            "has rained",
-            "was raining"
+            "is raining",
+            "rained"
           ],
           "correctAnswer": 1,
-          "explanation": "Konteks kalimat lampau (\"was wet\") memerlukan past perfect continuous \"had been raining\", bukan present perfect continuous."
+          "explanation": "\"Since this morning\" + akibat yang terasa sekarang → present perfect continuous. \"Is raining\" tidak bisa dipakai dengan since."
+        },
+        {
+          "id": "pres-q17",
+          "question": "We ___ for the bus for 30 minutes, and it still hasn't come.",
+          "options": [
+            "has been waiting",
+            "waited",
+            "are waiting",
+            "have been waiting",
+            "had been waiting"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Durasi (for 30 minutes) yang masih berlangsung sampai sekarang → present perfect continuous. Subjek \"we\" → have been waiting."
+        },
+        {
+          "id": "pres-q18",
+          "question": "Kalimat mana yang menekankan DURASI (berapa lama), bukan hasil?",
+          "options": [
+            "I have already read this novel.",
+            "I have read five chapters of this novel.",
+            "I read this novel yesterday.",
+            "I read novels every night.",
+            "I have been reading this novel all afternoon."
+          ],
+          "correctAnswer": 4,
+          "explanation": "Present perfect continuous (have been + V-ing) dengan \"all afternoon\" menyoroti lamanya proses; present perfect (have read five chapters) menyoroti hasil/jumlah."
+        },
+        {
+          "id": "pres-q19",
+          "question": "She has been owning that car since 2020. (perbaiki kesalahan)",
+          "options": [
+            "owns",
+            "has been owning",
+            "has owned",
+            "is owning",
+            "have owned"
+          ],
+          "correctAnswer": 2,
+          "explanation": "\"Own\" adalah stative verb, tidak dipakai dalam continuous. Durasi sejak 2020 sampai sekarang → present perfect: has owned."
+        },
+        {
+          "id": "pres-q20",
+          "question": "My sister work at a bank in Solo. (perbaiki kesalahan)",
+          "options": [
+            "working",
+            "is work",
+            "work",
+            "are working",
+            "works"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Subjek tunggal orang ketiga (my sister) pada simple present memerlukan V1 + s: works."
+        }
+      ]
+    },
+    {
+      "id": "topic-past",
+      "number": 2,
+      "title": "Past Tense",
+      "description": "Simple, continuous, perfect & perfect continuous di masa lampau.",
+      "questions": [
+        {
+          "id": "past-q1",
+          "question": "We ___ to Yogyakarta last holiday.",
+          "options": [
+            "have gone",
+            "went",
+            "were go",
+            "had go",
+            "go"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"Last holiday\" menandai waktu lampau yang sudah selesai → simple past. Go adalah irregular verb: V2 = went."
+        },
+        {
+          "id": "past-q2",
+          "question": "___ they finish the project yesterday?",
+          "options": [
+            "Were",
+            "Had",
+            "Do",
+            "Did",
+            "Have"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Kalimat tanya simple past dengan kata kerja aksi memakai Did + V1 (finish). \"Were\" tidak bisa diikuti V1."
+        },
+        {
+          "id": "past-q3",
+          "question": "She didn't ___ the email last night.",
+          "options": [
+            "to send",
+            "sends",
+            "send",
+            "sent",
+            "sending"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Setelah did/didn't, kata kerja kembali ke bentuk dasar (V1): didn't send."
+        },
+        {
+          "id": "past-q4",
+          "question": "Mozart ___ more than 600 pieces of music in his life.",
+          "options": [
+            "has been writing",
+            "writes",
+            "is writing",
+            "has written",
+            "wrote"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Mozart sudah meninggal sehingga periode hidupnya sudah tertutup → simple past (wrote). Present perfect hanya dipakai bila periodenya masih berlanjut sampai sekarang."
+        },
+        {
+          "id": "past-q5",
+          "question": "Two years ago, my family ___ in Semarang.",
+          "options": [
+            "are living",
+            "have lived",
+            "has lived",
+            "lived",
+            "live"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"Two years ago\" adalah penanda simple past; present perfect tidak boleh dipakai dengan \"ago\"."
+        },
+        {
+          "id": "past-q6",
+          "question": "While I ___ dinner, the lights went out.",
+          "options": [
+            "have cooked",
+            "were cooking",
+            "was cooking",
+            "am cooking",
+            "cook"
+          ],
+          "correctAnswer": 2,
+          "explanation": "While + past continuous untuk aksi yang sedang berlangsung lalu disela aksi lain (simple past). Subjek \"I\" → was cooking."
+        },
+        {
+          "id": "past-q7",
+          "question": "At 8 p.m. yesterday, they ___ a movie at the cinema.",
+          "options": [
+            "are watching",
+            "watch",
+            "were watching",
+            "was watching",
+            "have watched"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Jam tertentu di masa lampau (at 8 p.m. yesterday) → past continuous. Subjek jamak (they) → were watching."
+        },
+        {
+          "id": "past-q8",
+          "question": "When the phone rang, I ___ a shower, so I couldn't answer it.",
+          "options": [
+            "have taken",
+            "am taking",
+            "took",
+            "were taking",
+            "was taking"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Aksi yang sedang berlangsung (mandi) disela aksi singkat (telepon berdering) → past continuous. \"Took\" berarti mandi setelah telepon berdering, tidak cocok dengan \"couldn't answer it\"."
+        },
+        {
+          "id": "past-q9",
+          "question": "What ___ you doing at 10 o'clock last night?",
+          "options": [
+            "have",
+            "are",
+            "was",
+            "were",
+            "did"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Pertanyaan past continuous: Was/Were + subjek + V-ing. Subjek \"you\" → were."
+        },
+        {
+          "id": "past-q10",
+          "question": "By the time we reached the station, the train ___.",
+          "options": [
+            "has already left",
+            "already leaves",
+            "is already leaving",
+            "had already left",
+            "was already leave"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"By the time\" + simple past menandai aksi lain yang sudah selesai lebih dulu → past perfect: had + V3."
+        },
+        {
+          "id": "past-q11",
+          "question": "She ___ never ___ snow before she visited Japan last year.",
+          "options": [
+            "had / seen",
+            "had / saw",
+            "has / seen",
+            "was / seen",
+            "did / see"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pengalaman sebelum titik lampau (before she visited ... last year) → past perfect: had + V3. V3 dari see adalah seen."
+        },
+        {
+          "id": "past-q12",
+          "question": "When I arrived at the party, Nina wasn't there. She ___ home.",
+          "options": [
+            "had gone",
+            "has gone",
+            "goes",
+            "have gone",
+            "is going"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Nina pergi sebelum aku tiba (dua kejadian lampau, yang satu lebih dulu) → past perfect: had gone."
+        },
+        {
+          "id": "past-q13",
+          "question": "___ you ever ___ to Bali before you moved to Surabaya?",
+          "options": [
+            "Did / been",
+            "Had / been",
+            "Have / been",
+            "Were / go",
+            "Had / went"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pengalaman sebelum suatu titik di masa lampau (before you moved) → past perfect. Bentuk tanya: Had + subjek + V3 (been)."
+        },
+        {
+          "id": "past-q14",
+          "question": "I ___ the film before, so I didn't know the ending.",
+          "options": [
+            "haven't seen",
+            "hadn't seen",
+            "didn't saw",
+            "don't see",
+            "wasn't seen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Keadaan sebelum titik lampau (didn't know) → past perfect negatif: hadn't + V3. \"Didn't saw\" salah karena setelah did harus V1."
+        },
+        {
+          "id": "past-q15",
+          "question": "They were tired because they ___ for five hours.",
+          "options": [
+            "were hiked",
+            "had been hiking",
+            "are hiking",
+            "have been hiking",
+            "had hike"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Durasi aktivitas (for five hours) sebelum keadaan lampau (were tired) → past perfect continuous: had been + V-ing."
+        },
+        {
+          "id": "past-q16",
+          "question": "How long ___ before the doctor finally called her name?",
+          "options": [
+            "had she been waiting",
+            "was she wait",
+            "has she been waiting",
+            "she had been waiting",
+            "did she waiting"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Durasi sebelum kejadian lampau (the doctor called) → past perfect continuous. Dalam kalimat tanya: had + subjek + been + V-ing."
+        },
+        {
+          "id": "past-q17",
+          "question": "His clothes were dirty because he ___ in the garden all afternoon.",
+          "options": [
+            "is working",
+            "has been working",
+            "works",
+            "had been work",
+            "had been working"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Bukti di masa lampau (clothes were dirty) dari aktivitas yang berlangsung lama sebelumnya → past perfect continuous."
+        },
+        {
+          "id": "past-q18",
+          "question": "Rumus past perfect continuous adalah ___.",
+          "options": [
+            "had + been + V-ing",
+            "had + V-ing",
+            "had + V3",
+            "have/has + been + V-ing",
+            "was/were + V-ing"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Past perfect continuous = had + been + V-ing. Had + V3 adalah past perfect; was/were + V-ing adalah past continuous; have/has been + V-ing adalah present perfect continuous."
+        },
+        {
+          "id": "past-q19",
+          "question": "Yesterday I buyed a new bag. (perbaiki kesalahan)",
+          "options": [
+            "buy",
+            "have bought",
+            "bought",
+            "buyed",
+            "had buy"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Buy adalah irregular verb: V2 = bought (bukan buyed). \"Yesterday\" menandai simple past."
+        },
+        {
+          "id": "past-q20",
+          "question": "When I arrived, the meeting has already started. (perbaiki kesalahan)",
+          "options": [
+            "already starts",
+            "was already start",
+            "has already started",
+            "have already started",
+            "had already started"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Kalimat berada di masa lampau (when I arrived); rapat dimulai lebih dulu → past perfect: had already started, bukan present perfect."
+        }
+      ]
+    },
+    {
+      "id": "topic-future",
+      "number": 3,
+      "title": "Future Tense",
+      "description": "Simple, continuous, perfect & perfect continuous di masa depan.",
+      "questions": [
+        {
+          "id": "fut-q1",
+          "question": "Look at those dark clouds! It ___ soon.",
+          "options": [
+            "rains",
+            "is going to rain",
+            "goes to rain",
+            "rained",
+            "is going to raining"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Prediksi berdasarkan bukti yang terlihat sekarang (awan gelap) → be going to + V1: is going to rain. Setelah \"going to\" kata kerja harus bentuk dasar (V1)."
+        },
+        {
+          "id": "fut-q2",
+          "question": "Don't worry. I ___ you with your homework tonight.",
+          "options": [
+            "will help",
+            "will helping",
+            "helped",
+            "help",
+            "am help"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Janji/tawaran spontan untuk masa depan (tonight) → simple future: will + V1."
+        },
+        {
+          "id": "fut-q3",
+          "question": "She ___ come to the party tomorrow because she is sick.",
+          "options": [
+            "hasn't",
+            "won't",
+            "doesn't",
+            "didn't",
+            "isn't"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Negatif simple future = will not (won't) + V1. \"Tomorrow\" menandai masa depan."
+        },
+        {
+          "id": "fut-q4",
+          "question": "___ you join the English competition next month?",
+          "options": [
+            "Are",
+            "Will",
+            "Did",
+            "Have",
+            "Do"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kalimat tanya simple future: Will + subjek + V1. \"Next month\" menandai masa depan."
+        },
+        {
+          "id": "fut-q5",
+          "question": "Next year, my sister ___ 17 years old.",
+          "options": [
+            "will is",
+            "will been",
+            "will have",
+            "will be",
+            "is being"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Umur dinyatakan dengan to be (bukan have). Setelah will, to be menjadi bentuk dasar: will be."
+        },
+        {
+          "id": "fut-q6",
+          "question": "At this time tomorrow, we ___ over the Indian Ocean.",
+          "options": [
+            "will flying",
+            "fly",
+            "will fly",
+            "will have flown",
+            "will be flying"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"At this time tomorrow\" menandai aksi yang sedang berlangsung pada titik masa depan → future continuous: will be + V-ing."
+        },
+        {
+          "id": "fut-q7",
+          "question": "Please don't call me at 9 p.m. tonight; I ___ my favourite show then.",
+          "options": [
+            "watch",
+            "am watched",
+            "will be watching",
+            "will have been watch",
+            "watched"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Aksi yang sedang berlangsung pada jam tertentu di masa depan (at 9 p.m. tonight) → future continuous: will be watching."
+        },
+        {
+          "id": "fut-q8",
+          "question": "When you arrive at the airport, I ___ for you at the gate.",
+          "options": [
+            "will waiting",
+            "have waited",
+            "waited",
+            "was waiting",
+            "will be waiting"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Aksi yang sudah dan masih berlangsung ketika kejadian lain terjadi di masa depan (when you arrive) → future continuous: will be + V-ing."
+        },
+        {
+          "id": "fut-q9",
+          "question": "___ you ___ the car this evening? I'd like to borrow it.",
+          "options": [
+            "Will / using",
+            "Are / be using",
+            "Will / be using",
+            "Will / been using",
+            "Do / be using"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Menanyakan rencana/kegiatan yang akan berlangsung secara sopan → future continuous dalam bentuk tanya: Will + subjek + be + V-ing."
+        },
+        {
+          "id": "fut-q10",
+          "question": "By the end of this month, I ___ my thesis.",
+          "options": [
+            "will finished",
+            "will be finish",
+            "have finished",
+            "had finished",
+            "will have finished"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"By the end of this month\" (paling lambat titik masa depan) → future perfect: will have + V3."
+        },
+        {
+          "id": "fut-q11",
+          "question": "By 2030, scientists ___ a cure for this disease, I hope.",
+          "options": [
+            "had found",
+            "will found",
+            "have found",
+            "will have find",
+            "will have found"
+          ],
+          "correctAnswer": 4,
+          "explanation": "\"By 2030\" menandai future perfect: will have + V3. V3 dari find adalah found."
+        },
+        {
+          "id": "fut-q12",
+          "question": "The concert starts at 8. If we arrive at 8.30, the band ___ the first song.",
+          "options": [
+            "has finished",
+            "finished",
+            "will have finished",
+            "will be finish",
+            "finishes"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Lagu pertama sudah selesai sebelum titik masa depan (8.30) → future perfect: will have + V3."
+        },
+        {
+          "id": "fut-q13",
+          "question": "Don't come at 5 p.m. I ___ my work by then.",
+          "options": [
+            "won't finished",
+            "didn't finish",
+            "haven't finished",
+            "won't have finished",
+            "don't finish"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"By then\" (titik masa depan) → future perfect; bentuk negatifnya will not (won't) have + V3."
+        },
+        {
+          "id": "fut-q14",
+          "question": "By next June, she ___ at this company for ten years without a break.",
+          "options": [
+            "will working",
+            "will have been working",
+            "had been working",
+            "will be work",
+            "has been working"
+          ],
+          "correctAnswer": 1,
+          "explanation": "\"By next June\" + durasi (for ten years) yang terus berlangsung sampai titik masa depan → future perfect continuous: will have been + V-ing."
+        },
+        {
+          "id": "fut-q15",
+          "question": "By the time he retires, Mr. Budi ___ for 35 years.",
+          "options": [
+            "will have been teaching",
+            "will be teach",
+            "is teaching",
+            "has been teaching",
+            "had been teaching"
+          ],
+          "correctAnswer": 0,
+          "explanation": "\"By the time he retires\" (titik masa depan) + durasi (for 35 years) → future perfect continuous."
+        },
+        {
+          "id": "fut-q16",
+          "question": "How long ___ English by the end of this year?",
+          "options": [
+            "will you have been studying",
+            "you will have been studying",
+            "will have you been studying",
+            "will you been studying",
+            "have you will study"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pertanyaan durasi sampai titik masa depan → future perfect continuous. Urutan kalimat tanya: Will + subjek + have been + V-ing."
+        },
+        {
+          "id": "fut-q17",
+          "question": "Kata penanda (signal word) yang paling tepat untuk future perfect adalah ___.",
+          "options": [
+            "right now",
+            "yesterday",
+            "at this time tomorrow",
+            "by next year",
+            "every day"
+          ],
+          "correctAnswer": 3,
+          "explanation": "\"By + waktu masa depan\" (by next year, by 2030) sering menjadi penanda future perfect (meski kadang juga dipakai dengan will biasa). \"At this time tomorrow\" menandai future continuous; \"right now\" present continuous; \"yesterday\" simple past; \"every day\" simple present."
+        },
+        {
+          "id": "fut-q18",
+          "question": "Pilih kalimat future continuous yang benar.",
+          "options": [
+            "This time next week, I will been lying on the beach.",
+            "This time next week, I will lying on the beach.",
+            "This time next week, I will be lying on the beach.",
+            "This time next week, I will be lie on the beach.",
+            "This time next week, I am will be lying on the beach."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Rumus future continuous: will + be + V-ing. Hanya pilihan ini yang memiliki ketiga unsur secara lengkap dan benar."
+        },
+        {
+          "id": "fut-q19",
+          "question": "She will calls you tomorrow. (perbaiki kesalahan)",
+          "options": [
+            "will call",
+            "wills call",
+            "will called",
+            "will calling",
+            "will calls"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Setelah modal will, kata kerja selalu dalam bentuk dasar (V1) tanpa -s: will call."
+        },
+        {
+          "id": "fut-q20",
+          "question": "By the time you wake up, I will have leave. (perbaiki kesalahan)",
+          "options": [
+            "will has left",
+            "will have leave",
+            "will have leaving",
+            "will have left",
+            "will left"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Future perfect = will have + V3. V3 dari leave adalah left; \"have\" tetap \"have\" untuk semua subjek setelah will."
         }
       ]
     },
     {
       "id": "topic-2",
-      "number": 2,
+      "number": 4,
       "title": "Subject-Verb Agreement",
       "description": "Kesesuaian subjek dan kata kerja dalam berbagai konteks.",
       "questions": [
@@ -473,7 +1009,7 @@
     },
     {
       "id": "topic-3",
-      "number": 3,
+      "number": 5,
       "title": "Modal Verbs",
       "description": "Modal untuk deduksi, kemungkinan, dan kewajiban di masa lalu.",
       "questions": [
@@ -676,7 +1212,7 @@
     },
     {
       "id": "topic-4",
-      "number": 4,
+      "number": 6,
       "title": "Degrees of Comparison",
       "description": "Positive, comparative, dan superlative degree.",
       "questions": [
@@ -879,7 +1415,7 @@
     },
     {
       "id": "topic-5",
-      "number": 5,
+      "number": 7,
       "title": "Clause Types (Independent & Dependent)",
       "description": "Jenis-jenis klausa dan struktur kalimat.",
       "questions": [
@@ -1017,7 +1553,7 @@
     },
     {
       "id": "topic-6",
-      "number": 6,
+      "number": 8,
       "title": "Adjective, Noun & Adverbial Clause",
       "description": "Klausa relatif dan klausa keterangan.",
       "questions": [
@@ -1220,7 +1756,7 @@
     },
     {
       "id": "topic-7",
-      "number": 7,
+      "number": 9,
       "title": "Gerund & Infinitive",
       "description": "Penggunaan V-ing dan to-V setelah kata kerja tertentu.",
       "questions": [
@@ -1423,7 +1959,7 @@
     },
     {
       "id": "topic-8",
-      "number": 8,
+      "number": 10,
       "title": "Conditionals (Type 0-3)",
       "description": "Kalimat pengandaian tipe 0 hingga 3.",
       "questions": [
@@ -1691,7 +2227,7 @@
     },
     {
       "id": "topic-9",
-      "number": 9,
+      "number": 11,
       "title": "Passive Voice",
       "description": "Kalimat pasif dalam berbagai tense.",
       "questions": [
@@ -1959,7 +2495,7 @@
     },
     {
       "id": "topic-10",
-      "number": 10,
+      "number": 12,
       "title": "Reported Speech",
       "description": "Perubahan kalimat langsung menjadi tidak langsung.",
       "questions": [
@@ -2227,7 +2763,7 @@
     },
     {
       "id": "topic-11",
-      "number": 11,
+      "number": 13,
       "title": "Question Tags & Causative Verbs",
       "description": "Tag question dan kata kerja kausatif (make/have/get/let).",
       "questions": [
@@ -2430,7 +2966,7 @@
     },
     {
       "id": "topic-12",
-      "number": 12,
+      "number": 14,
       "title": "Phrasal Verbs & Participle Phrases",
       "description": "Frasa verba dan frasa partisipial.",
       "questions": [
